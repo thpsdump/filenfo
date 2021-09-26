@@ -1,0 +1,204 @@
+system_area {
+  file "data.sys"
+}
+
+volume {
+  system_id [PLAYSTATION]
+  volume_id [SCUS_94587]
+  volume_set_id []
+  publisher_id [SCEA]
+  preparer_id [LIFELIKE]
+  application_id [PLAYSTATION]
+  copyright_file_id [SIE]
+  abstract_file_id []
+  bibliographic_file_id []
+  creation_date 0000-04-13 10:22:00.38 36
+  modification_date 0000-00-00 00:00:00.00 0
+  expiration_date 0000-00-00 00:00:00.00 0
+  effective_date 0000-00-00 00:00:00.00 0
+}
+
+dir {
+  file SYSTEM.CNF
+  file SCUS_945.87
+  file PSX.EXE
+  file MENU.EXE
+  file MAIN.EXE
+  file CONTENTS.DAT
+  file MENU.FF
+  dir MOVIES {
+    xafile TEASER.STR
+    xafile BEFORE.STR
+    xafile TRANS.STR
+    file ENDCAP.STR
+  }
+  dir RYOURI {
+    file GAME.BIN
+    file PSX.EXE
+    file STAGE1.BIN
+    file ST_SEL.BIN
+    file TITLE.BIN
+    file VS_BATU.BIN
+    file VS_SEL.BIN
+    dir DATA {
+      file MODEL_1.MDL
+      file MODEL_VS.MDL
+      file SELECT.TMB
+      file STAGE1.BD
+      file STAGE1.HD
+      file STG1.TMB
+      file STORY.BD
+      file STORY.HD
+      file SYSTEM.TMB
+      file TITLE.BD
+      file TITLE.HD
+      file TITLE.MDL
+      file TITLE.TMB
+      file VSVOICE.BD
+      file VSVOICE.HD
+      file VS_CHR.TMB
+      file VS_GAME.TMB
+      file VS_SEL.TMB
+    }
+    dir XA {
+      file RYOURI.XA
+    }
+  }
+  dir MED2 {
+    file MED2.EXE
+    file PROJFILE.MWD
+    dir XA {
+      xafile DEMO.STR
+    }
+    dir RELOCS {
+      file MB_LEVEL.LVB
+      file MU_LEVEL.LVB
+    }
+  }
+  dir HSG2 {
+    file MINGOL2.BIN
+    xafile MINGOL2X.BIN
+    file SCUS_944.95
+  }
+  dir SPUNKS {
+    file SPUNKS.EXE
+    file MENUOVL.BIN
+    file MENU.GDF
+    file CONTROLS.GDF
+    file GAMEOVL.BIN
+    file SCREEN1.GDF
+    file SCREEN2.GDF
+    file SCREEN3.GDF
+    file L1T1D1.GDF
+    file L1T1D2.GDF
+    file L1T1D3.GDF
+    file L1T2D3.GDF
+    file L1T4D3.GDF
+    file L2T2D1.GDF
+    file L2T3D1.GDF
+    xafile THEMES.XA
+  }
+  dir TOMBA2 {
+    file MAIN.EXE
+    file UNDER.CCS
+    dir BIN {
+      file A00.BIN
+      file DEMO.BIN
+      file GAME.BIN
+      file OPN.BIN
+      file SOP.BIN
+      file START.BIN
+    }
+    dir CD {
+      xafile LOGO.STR
+      file TOMBA2.DAT
+      file TOMBA2.IDX
+      file TOMBA2.IMG
+      file TOMBA2.SND
+      xafile UNDER.XA
+    }
+  }
+  dir SYPHON {
+    file SYPHON.EXE
+    dir BIN {
+      file INIT.OVL
+    }
+    file DISK1.INF
+    file TITLE.HOG
+    file TRAIN.FOG
+    xafile TRAIN.XA
+    xafile MOVIE1.HOG
+  }
+  file HARNESS.EXE
+  dir SPIDEY {
+    file CD.HED
+    file CD.WAD
+    xafile COMPILED.XA
+    xafile TEST01.STR
+  }
+  dir NASCRUM {
+    file RUMBLE.EXE
+    file BB.AV
+    file BB2.LSC
+    file BB2.TRK
+    file FE.TRK
+    file FELD.LSC
+    file GLBLDATA.PSX
+    file LEGAL.LSC
+    file MC.AV
+    file MC3.LSC
+    file MC3.TRK
+    file FEATURE.LSC
+  }
+  dir GRIND {
+    file PSX.EXE
+    file SLIP.GRV
+  }
+  dir LOD {
+    file DRGN.EXE
+    dir OVL {
+      file BTTL.OV_
+      file SMAP.OV_
+      file S_BTLD.OV_
+      file S_EFFE.OV_
+      file S_INIT.OV_
+      file S_ITEM.OV_
+      file S_STRM.OV_
+      file TEMP.OV_
+      file TTLE.OV_
+      file WMAP.OV_
+    }
+    dir SECT {
+      file DRGN0.BIN
+      file DRGN1.BIN
+      file DRGN21.BIN
+    }
+    dir SIM {
+      file MES.MVB
+    }
+    dir SUBMAP {
+      file NEWROOT.RDT
+    }
+    dir XA {
+      xafile LODXA00.XA
+    }
+  }
+  dir PROSKATE {
+    file CD.HED
+    file CD.WAD
+    xafile ATVILOGO.STR
+    xafile LOGO.STR
+    xafile COMPILED.XA
+    file MAR.STR
+    file STATIC.STR
+  }
+  file PROSKATE.EXE
+  dir MOVIES2 {
+    xafile HSG.STR
+    xafile DRAGOON.STR
+    xafile SFCM1.STR
+    xafile SPYROCM1.STR
+    file ENDCAP.STR
+  }
+  file PAD.DAT
+}

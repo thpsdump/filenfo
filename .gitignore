@@ -1,0 +1,3 @@
+# do not include any of the data file from games
+*/*/data/*
+*.sys

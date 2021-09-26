@@ -1,0 +1,57 @@
+Analyzing image "Jampack Summer 2K.cue"...
+   INFO: Disc mode = 3
+   INFO: First track = 1
+   INFO: Track format = 2
+   INFO: Start LSN of session = 0
+   INFO: Filesystem type = 10013
+Volume ID = SCUS_94587
+System area data written to "data.sys"
+Dumping filesystem to directory "data"...
+   INFO: Dumping '' as ''
+   INFO: Dumping 'MOVIES' as 'MOVIES'
+   INFO: XA file 'TEASER.STR' size = 22069248, secsize = 10776, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'BEFORE.STR' size = 6356992, secsize = 3104, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'TRANS.STR' size = 696320, secsize = 340, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'RYOURI' as 'RYOURI'
+   INFO: Dumping 'RYOURI/DATA' as 'DATA'
+   INFO: Dumping 'RYOURI/XA' as 'XA'
+   INFO: Dumping 'MED2' as 'MED2'
+   INFO: Dumping 'MED2/XA' as 'XA'
+   INFO: XA file 'DEMO.STR' size = 21266432, secsize = 10384, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'MED2/RELOCS' as 'RELOCS'
+   INFO: Dumping 'HSG2' as 'HSG2'
+   INFO: XA file 'MINGOL2X.BIN' size = 2140160, secsize = 1045, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'SPUNKS' as 'SPUNKS'
+   INFO: XA file 'THEMES.XA' size = 21143552, secsize = 10324, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'TOMBA2' as 'TOMBA2'
+   INFO: Dumping 'TOMBA2/BIN' as 'BIN'
+   INFO: Dumping 'TOMBA2/CD' as 'CD'
+   INFO: XA file 'LOGO.STR' size = 2621440, secsize = 1280, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'UNDER.XA' size = 15810560, secsize = 7720, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'SYPHON' as 'SYPHON'
+   INFO: Dumping 'SYPHON/BIN' as 'BIN'
+   INFO: XA file 'TRAIN.XA' size = 6488064, secsize = 3168, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'MOVIE1.HOG' size = 19744768, secsize = 9641, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'SPIDEY' as 'SPIDEY'
+   INFO: XA file 'COMPILED.XA' size = 3211264, secsize = 1568, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'TEST01.STR' size = 11763712, secsize = 5744, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'NASCRUM' as 'NASCRUM'
+   INFO: Dumping 'GRIND' as 'GRIND'
+   INFO: Dumping 'LOD' as 'LOD'
+   INFO: Dumping 'LOD/OVL' as 'OVL'
+   INFO: Dumping 'LOD/SECT' as 'SECT'
+   INFO: Dumping 'LOD/SIM' as 'SIM'
+   INFO: Dumping 'LOD/SUBMAP' as 'SUBMAP'
+   INFO: Dumping 'LOD/XA' as 'XA'
+   INFO: XA file 'LODXA00.XA' size = 8716288, secsize = 4256, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'PROSKATE' as 'PROSKATE'
+   INFO: XA file 'ATVILOGO.STR' size = 4325376, secsize = 2112, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'LOGO.STR' size = 3702784, secsize = 1808, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'COMPILED.XA' size = 36880384, secsize = 18008, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'MOVIES2' as 'MOVIES2'
+   INFO: XA file 'HSG.STR' size = 57163776, secsize = 27912, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'DRAGOON.STR' size = 42631168, secsize = 20816, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'SFCM1.STR' size = 39043072, secsize = 19064, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'SPYROCM1.STR' size = 13336576, secsize = 6512, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+Catalog written to "data.cat"
+   INFO: Done.
