@@ -26,7 +26,10 @@ directory structure (per entry)
 a list of tools feeding this project
 | system | tool | link |
 | - |-|-|
-| psx      | psximager    | https://github.com/cebix/psximager|
-| psx      | thps2-tools    | https://github.com/JayFoxRox/thps2-tools|
+| psx | psximager    | https://github.com/cebix/psximager         |
+| psx | thps2-tools  | https://github.com/JayFoxRox/thps2-tools   |
+| psx | toc2cue      | -                                          |
+| psx | bchunk       | -                                          |
+
 
 
