@@ -11,14 +11,15 @@ still need to identify tools for more systems so we can process the dumps
 directory structure (per entry)
 
 ```
-./hash-name
-./hash-name/hash-lbntable.txt
-./hash-name/hash-extract.log
-./hash-name/hash-data.md5
-./hash-name/hash-image.md5
-./hash-name/hash.cat
-./hash-name/hash.cue
-./hash-name/data
+./hash
+./hash/hash-struct.txt
+./hash/hash-extract.log
+./hash/hash-data.md5
+./hash/hash-image.md5
+./hash/hash.cat
+./hash/hash.cue
+./hash/hash.names
+./hash/data
 ```
 
 ## tools
