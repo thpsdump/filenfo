@@ -1,0 +1,75 @@
+system_area {
+  file "data.sys"
+}
+
+volume {
+  system_id [PLAYSTATION]
+  volume_id [SLPM_86751]
+  volume_set_id [SUCCESS]
+  publisher_id [SUCCESS]
+  preparer_id [SUCCESS]
+  application_id [PLAYSTATION]
+  copyright_file_id [SUCCESS]
+  abstract_file_id []
+  bibliographic_file_id []
+  creation_date 2001-01-23 21:16:04.00 36
+  modification_date 0000-00-00 00:00:00.00 0
+  expiration_date 0000-00-00 00:00:00.00 0
+  effective_date 0000-00-00 00:00:00.00 0
+}
+
+dir {
+  dir X {
+    xafile BAILS02.STR
+    xafile BAILS01.STR
+    xafile BURNQUIS.STR
+    xafile CABALLER.STR
+    xafile CAMPBELL.STR
+    xafile GLIFBERG.STR
+    xafile HAWK.STR
+    xafile KOSTON.STR
+    xafile LASEK.STR
+    xafile MS.STR
+    xafile MULLEN.STR
+    xafile MUSKA.STR
+    xafile OD.STR
+    xafile PC.STR
+    xafile REYNOLDS.STR
+    xafile ROWLEY.STR
+    xafile SM.STR
+    xafile STEAMER.STR
+    xafile THOMAS.STR
+  }
+  file SYSTEM.CNF
+  file SLPM_867.51
+  xafile ATVILOGO.STR
+  xafile SUCCESS.STR
+  xafile INTRO.STR
+  xafile LOGO.STR
+  file CD.WAD
+  file CD.HED
+  xafile EDITOR.STR
+  xafile BULLRING.STR
+  xafile B1.STR
+  xafile HANGAR.STR
+  xafile HEAVEN.STR
+  xafile MAR.STR
+  xafile NY.STR
+  xafile PHILLY.STR
+  xafile SCHOOL.STR
+  xafile SS.STR
+  xafile VENICE.STR
+  xafile COMPILED.XA
+  dir BMX {
+    file BMXCD.HED
+    file BMXCD.WAD
+    file BOOT.BIN
+    file EDITOR.BIN
+    file EXIT.BIN
+    file FE.STR
+    file FE.WAD
+    file FRONT.BIN
+    file GAME.BIN
+    file X.EXE
+  }
+}

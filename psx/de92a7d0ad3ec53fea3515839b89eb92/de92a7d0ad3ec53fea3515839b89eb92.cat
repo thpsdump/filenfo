@@ -1,0 +1,141 @@
+system_area {
+  file "data.sys"
+}
+
+volume {
+  system_id [PLAYSTATION]
+  volume_id [SCUS_94667]
+  volume_set_id []
+  publisher_id [SCEA]
+  preparer_id [LIFELIKE]
+  application_id [PLAYSTATION]
+  copyright_file_id [SIE]
+  abstract_file_id []
+  bibliographic_file_id []
+  creation_date 2002-03-05 15:42:07.94 36
+  modification_date 0000-00-00 00:00:00.00 0
+  expiration_date 0000-00-00 00:00:00.00 0
+  effective_date 0000-00-00 00:00:00.00 0
+}
+
+dir {
+  file SYSTEM.CNF
+  file PSX.EXE
+  file SCUS_946.67
+  file MAIN.EXE
+  file LAUNCH2.EXE
+  file CONTENTS.DAT
+  file MENU.FF
+  dir CB5 {
+    file CB5.EXE
+    file SAMPLE.DAT
+  }
+  dir S0 {
+    file CRASH.EXE
+    file S000000E.NSD
+    file S000000E.NSF
+    file S0000011.NSD
+    file S0000011.NSF
+  }
+  dir SPYRO3 {
+    file SPYRO3.EXE
+    file WAD.WAD
+    xafile SPEECH.STR
+  }
+  dir DDR {
+    file STR.BIN
+    file READ_DT.BIN
+    xafile XA.STR
+    file DDR.EXE
+  }
+  dir US_01293 {
+    file SLUS_012.93
+    file LOCALIZE.EXE
+    file MENU.EXE
+    file GAME.EXE
+    file FMV.EXE
+    dir FMV {
+      xafile THQ.STR
+      xafile HOTGEN.STR
+      xafile ATOD.STR
+    }
+    dir SOUNDS {
+      file SOUNDS.VAG
+    }
+    dir MISC {
+      file LOADINGN.DAT
+      file LEGALN.DAT
+      file TEASERN.DAT
+    }
+    dir STRINGS {
+      file GAME.USA
+      file MAIN.USA
+      file MENU.USA
+    }
+    dir GENERIC {
+      file GEN.BIN
+      file MENUNTSC.BIN
+    }
+    dir VEHICLES {
+      file VEHICLE0.CAB
+      file VEHICLE1.CAB
+      file VEHICLE2.CAB
+      file VEHICLE3.CAB
+      file VEHICLE4.CAB
+      file VEHICLE5.CAB
+      file VEHICLE6.CAB
+      file VEHICLE7.CAB
+    }
+    dir MAPS {
+      dir STAGE1 {
+        file MAP10.DAT
+      }
+    }
+  }
+  file ET.EXE
+  dir MEGA {
+    file MEGA.BIN
+    file MEGA.CSH
+  }
+  dir DEMO {
+    file DATA.DAT
+    file SLUS_013.83
+  }
+  dir LOD {
+    file DRGN.EXE
+    dir OVL {
+      file BTTL.OV_
+      file SMAP.OV_
+      file S_BTLD.OV_
+      file S_EFFE.OV_
+      file S_INIT.OV_
+      file S_ITEM.OV_
+      file S_STRM.OV_
+      file TEMP.OV_
+      file TTLE.OV_
+      file WMAP.OV_
+    }
+    dir SECT {
+      file DRGN0.BIN
+      file DRGN1.BIN
+      file DRGN21.BIN
+    }
+    dir SIM {
+      file MES.MVB
+    }
+    dir SUBMAP {
+      file NEWROOT.RDT
+    }
+    dir XA {
+      xafile LODXA00.XA
+    }
+  }
+  dir MOVIES {
+    xafile BATMAN.STR
+    xafile TH3.STR
+    xafile DIGIMON.STR
+    xafile WORMSWP.STR
+    file ENDCAP.STR
+  }
+  file DUMMY.FIL
+}

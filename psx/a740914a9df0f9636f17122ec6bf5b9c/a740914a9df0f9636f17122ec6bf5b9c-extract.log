@@ -1,0 +1,33 @@
+Analyzing image "(PSX) PlayStation Underground 3.4 (Demo) (CD1) (SCUS-94446).cue"...
+   INFO: Disc mode = 2
+   INFO: First track = 1
+   INFO: Track format = 2
+   INFO: Start LSN of session = 0
+   INFO: Filesystem type = 10013
+Volume ID = SCUS_94446
+System area data written to "data.sys"
+Dumping filesystem to directory "data"...
+   INFO: Dumping '' as ''
+   INFO: Dumping 'MOVIES' as 'MOVIES'
+   INFO: XA file 'BEFORE.STR' size = 5373952, secsize = 2624, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'MAGGIE.STR' size = 25837568, secsize = 12616, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'AFTER.STR' size = 2068480, secsize = 1010, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'DOWNLOAD.STR' size = 4177920, secsize = 2040, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'EVENT.STR' size = 1130496, secsize = 552, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'BTS.STR' size = 1671168, secsize = 816, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'THREADZ.STR' size = 5570560, secsize = 2720, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'WORMHOLE' as 'WORMHOLE'
+   INFO: XA file 'ENDWIN.STR' size = 2273280, secsize = 1110, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'ENDLOSE.STR' size = 3489792, secsize = 1704, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'WH.STR' size = 25788416, secsize = 12592, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'NEXT.STR' size = 14532608, secsize = 7096, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'MOVIES2' as 'MOVIES2'
+   INFO: XA file 'PSX2.STR' size = 67649536, secsize = 33032, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'CGD.STR' size = 30785536, secsize = 15032, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'SPYRO.STR' size = 96481280, secsize = 47110, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'TGS.STR' size = 33914880, secsize = 16560, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'LAMMY.STR' size = 41795584, secsize = 20408, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'TOMBA.STR' size = 57311232, secsize = 27984, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'CTR.STR' size = 100139008, secsize = 48896, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+Catalog written to "data.cat"
+   INFO: Done.

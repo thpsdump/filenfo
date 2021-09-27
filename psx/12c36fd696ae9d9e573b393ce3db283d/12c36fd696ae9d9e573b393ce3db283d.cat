@@ -1,0 +1,34 @@
+system_area {
+  file "data.sys"
+}
+
+volume {
+  system_id [PLAYSTATION]
+  volume_id [SK20509E]
+  volume_set_id []
+  publisher_id [ACTIVISION]
+  preparer_id []
+  application_id [PLAYSTATION]
+  copyright_file_id []
+  abstract_file_id []
+  bibliographic_file_id []
+  creation_date 0000-05-09 19:10:58.00 36
+  modification_date 0000-00-00 00:00:00.00 0
+  expiration_date 0000-00-00 00:00:00.00 0
+  effective_date 0000-00-00 00:00:00.00 0
+}
+
+dir {
+  file PSX.EXE
+  file CD.HED
+  file CD.WAD
+  xafile ATVILOGO.STR
+  xafile COMPILED.XA
+  xafile LOGO.STR
+  file MAR.STR
+  file STATIC.STR
+  file NY.STR
+  file PHILLY.STR
+  file SCHOOL.STR
+  file SS.STR
+}

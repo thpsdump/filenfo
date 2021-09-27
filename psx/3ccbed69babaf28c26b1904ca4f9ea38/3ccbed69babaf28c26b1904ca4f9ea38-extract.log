@@ -1,0 +1,21 @@
+Analyzing image "thpsSK707_hybrid.cue"...
+   INFO: Disc mode = 2
+   INFO: First track = 1
+   INFO: Track format = 2
+   INFO: Start LSN of session = 0
+   INFO: Filesystem type = 10013
+Volume ID = 
+System area data written to "data.sys"
+Dumping filesystem to directory "data"...
+   INFO: Dumping '' as ''
+   INFO: XA file 'SUICIDE.STR' size = 37591040, secsize = 18355, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file '411_REO.STR' size = 37060608, secsize = 18096, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file '411_UNS.STR' size = 37060608, secsize = 18096, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file '411_VAN.STR' size = 37060608, secsize = 18096, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'ATVILOGO.STR' size = 4325376, secsize = 2112, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'GOLDFING.STR' size = 38404096, secsize = 18752, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'LOGO.STR' size = 2768896, secsize = 1352, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file '411_PR2.STR' size = 37060608, secsize = 18096, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file '411_DKS.STR' size = 37060608, secsize = 18096, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+Catalog written to "data.cat"
+   INFO: Done.

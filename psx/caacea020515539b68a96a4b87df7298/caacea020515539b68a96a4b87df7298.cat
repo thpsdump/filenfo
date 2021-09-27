@@ -1,0 +1,167 @@
+system_area {
+  file "data.sys"
+}
+
+volume {
+  system_id [PLAYSTATION]
+  volume_id [SCUS_94443]
+  volume_set_id []
+  publisher_id [SCEA]
+  preparer_id [LIFELIKE]
+  application_id [PLAYSTATION]
+  copyright_file_id [SIE]
+  abstract_file_id []
+  bibliographic_file_id []
+  creation_date 1999-05-25 14:50:23.00 36
+  modification_date 0000-00-00 00:00:00.00 0
+  expiration_date 0000-00-00 00:00:00.00 0
+  effective_date 0000-00-00 00:00:00.00 0
+}
+
+dir {
+  file FF8.EXE
+  file FF8TRY.IMG
+  file MENU.EXE
+  file SLUS_900.29
+  dir MENU {
+    file EFF8.TIM
+    file EKEY_0.TIM
+    file EKEY_1.TIM
+    file EKEY_2.TIM
+    file ETC.OBJ
+    file ETUTO_0.TIM
+    file ETUTO_1.TIM
+    file ETUTO_2.TIM
+    file ETUTO_3.TIM
+    file ETUTO_4.TIM
+    file ETUTO_5.TIM
+    file ETUTO_6.TIM
+    file ETUTO_7.TIM
+    file ETUTO_8.TIM
+    file LOGO.OBJ
+    file MSG.OBJ
+    file SEQ.OBJ
+    file SQEA.TIM
+    file WAV.OBJ
+  }
+  file SYSTEM.CNF
+  file PSX.EXE
+  file SCUS_944.43
+  file MAIN.EXE
+  file CONTENTS.DAT
+  file MENU.FF
+  dir UJL {
+    file CMP0.INT
+    file CMP11SNG.INT
+    file COMOD0.MEN
+    file COMOD11.SNG
+    xafile LOGO.IKI
+    file LOOP2.VB
+    xafile ST1.XA
+    xafile TITLE.IKI
+    file UJL.EXE
+    file WP1.INT
+  }
+  dir EHRGEIZ {
+    file EZLA.EXE
+    file EZ00.EXE
+    file BATPNL00.EXE
+    file ALLBIN.BIN
+    file PNLBIN.BIN
+    xafile BGM001.XA
+    xafile BGM002.XA
+    xafile TESNOBI.STR
+  }
+  dir PROSKATE {
+    file PROSKATE.EXE
+    file CD.HED
+    file CD.WAD
+    xafile 411.STR
+  }
+  dir RASETSU {
+    file RASETSU.EXE
+    dir 0 {
+      file WARNING1.TIM
+      file STARTPCM.PCM
+      file STARTSEQ.SEQ
+      file TITLE.BIN
+      file KONAMI.BIN
+      file TITLE01.BIN
+      file SCHOOL.BIN
+      file MOJI00.BIN
+      file MESSAGE.DAT
+      file SELECT00.BIN
+      file CHARA00.BIN
+      file CHARA01.BIN
+      file MODEL.BIN
+      file PLAYERSE.BIN
+      file DEMO00.BIN
+      file DEMO01.BIN
+      file DEMO07.BIN
+      file BRAINB.BIN
+      file STAGE00.BIN
+      file STAGE01.BIN
+      file STAGE07.BIN
+      file OPT01.BIN
+      file OPT01T.BIN
+      file OPT04.BIN
+      file MATI.MAP
+      file DOUJ.MAP
+      file AREA.BIN
+      file EXIT1.TIM
+      file MOVIE1.BIN
+      xafile OP.STR
+    }
+  }
+  dir KIDZ {
+    file KIDZ.EXE
+    file KKIIDDZZ.HED
+    file KKIIDDZZ.DAT
+    file KKIIDDZZ.BNS
+    file TITLE.ALL
+    xafile TALK.STR
+    xafile TITLE.STR
+  }
+  dir X3 {
+    file ANIM.ANM
+    file SBUT.SND
+    file TITLE.TIM
+    xafile 989STUDI.STR
+    file ERV3HI01.TER
+    file ERV3HI02.TER
+    file ERV3HI03.TER
+    file ERV3HI04.TER
+    file ERV3HI05.TER
+    file ERV3HI06.TER
+    file ERV3HI07.TER
+    file ERV3HI08.TER
+    file ERV3HI09.TER
+    file ERV3HI10.TER
+    file ERV3HI11.TER
+    file ERV3HI12.TER
+    file ERV3HI13.TER
+    file ERV3HI14.TER
+    file ERV3HI15.TER
+    file ERV3HI16.TER
+    file SCRBKD.TER
+    file TRACKS.IMG
+    file GAME.EXE
+    file PLAYER1.GUY
+    file P24BIT.GUY
+    file P84BIT.GUY
+    file P74BIT.GUY
+    file P94BIT.GUY
+    file P114BIT.GUY
+  }
+  dir MLB2000 {
+    file MLB2000.EXE
+    file DATA.WAD
+  }
+  dir MOVIES {
+    xafile JETALPHA.STR
+    xafile TOKYO.STR
+    xafile VAULT.STR
+    file ENDCAP.STR
+  }
+  file DUMMY.FIL
+}

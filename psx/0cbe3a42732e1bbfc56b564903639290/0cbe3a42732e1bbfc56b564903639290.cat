@@ -1,0 +1,89 @@
+system_area {
+  file "data.sys"
+}
+
+volume {
+  system_id [PLAYSTATION]
+  volume_id [SCUS_94593]
+  volume_set_id []
+  publisher_id [SCEA]
+  preparer_id [LIFELIKE]
+  application_id [PLAYSTATION]
+  copyright_file_id [SIE]
+  abstract_file_id []
+  bibliographic_file_id []
+  creation_date 0000-04-03 13:28:44.25 36
+  modification_date 0000-00-00 00:00:00.00 0
+  expiration_date 0000-00-00 00:00:00.00 0
+  effective_date 0000-00-00 00:00:00.00 0
+}
+
+dir {
+  file SYSTEM.CNF
+  file PSX.EXE
+  file SCUS_945.93
+  file MAIN.EXE
+  file CONTENTS.DAT
+  file MENU.FF
+  dir MRDRI {
+    file MAIN.EXE
+    file GRAPH.BIN
+    file REP.BIN
+    xafile BGM.XA
+  }
+  dir STARTREK {
+    file STARTREK.EXE
+    xafile STARTREK.RES
+  }
+  dir LOD {
+    file DRGN.EXE
+    dir OVL {
+      file BTTL.OV_
+      file SMAP.OV_
+      file S_BTLD.OV_
+      file S_EFFE.OV_
+      file S_INIT.OV_
+      file S_ITEM.OV_
+      file S_STRM.OV_
+      file TEMP.OV_
+      file TTLE.OV_
+      file WMAP.OV_
+    }
+    dir SECT {
+      file DRGN0.BIN
+      file DRGN1.BIN
+      file DRGN21.BIN
+    }
+    dir SIM {
+      file MES.MVB
+    }
+    dir SUBMAP {
+      file NEWROOT.RDT
+    }
+    dir XA {
+      xafile LODXA00.XA
+    }
+  }
+  dir MLB2K1 {
+    file MLB2001.EXE
+    file DATA.WAD
+  }
+  dir PROSKATE {
+    file CD.HED
+    file CD.WAD
+    xafile ATVILOGO.STR
+    xafile LOGO.STR
+    xafile COMPILED.XA
+    file MAR.STR
+    file STATIC.STR
+  }
+  file PROSKATE.EXE
+  dir MOVIES {
+    xafile INTRO.STR
+    xafile JEDI.STR
+    xafile TENCHU2.STR
+    xafile COVERT.STR
+    file ENDCAP.STR
+  }
+  file DUMMY.FIL
+}

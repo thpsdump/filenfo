@@ -1,0 +1,52 @@
+Analyzing image "[PSX] PlayStation Zone Vol.8 [SLED-02078] [G].cue"...
+   INFO: Disc mode = 3
+   INFO: First track = 1
+   INFO: Track format = 2
+   INFO: Start LSN of session = 0
+   INFO: Filesystem type = 10013
+Volume ID = SLED_02078
+System area data written to "data.sys"
+Dumping filesystem to directory "data"...
+   INFO: Dumping '' as ''
+   INFO: Dumping 'PSZ' as 'PSZ'
+   INFO: XA file 'ARMYMEN.FMV' size = 6914048, secsize = 3376, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'DUMMY0.FMV' size = 1556480, secsize = 760, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'GTA.FMV' size = 47955968, secsize = 23416, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'DUMMY1.FMV' size = 1556480, secsize = 760, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'MH.FMV' size = 44859392, secsize = 21904, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'DUMMY2.FMV' size = 1556480, secsize = 760, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'RAINBOW6.FMV' size = 47579136, secsize = 23232, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'DUMMY3.FMV' size = 1556480, secsize = 760, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'RAYMAN2.FMV' size = 40796160, secsize = 19920, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'DUMMY4.FMV' size = 1556480, secsize = 760, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'PSZINTRO.FMV' size = 5816320, secsize = 2840, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'DUMMY5.FMV' size = 1556480, secsize = 760, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'GTA' as 'GTA'
+   INFO: Dumping 'EXE' as 'EXE'
+   INFO: XA file '1516CMR.IXA' size = 9338880, secsize = 4560, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'EXE/SDIV' as 'SDIV'
+   INFO: Dumping 'EXE/SNORM' as 'SNORM'
+   INFO: Dumping 'EXE/SNORM1' as 'SNORM1'
+   INFO: Dumping 'SCARSPAL' as 'SCARSPAL'
+   INFO: Dumping 'SCARSPAL/4P' as '4P'
+   INFO: Dumping 'SCARSPAL/4P/B' as 'B'
+   INFO: Dumping 'SCARSPAL/B' as 'B'
+   INFO: Dumping 'SCARSPAL/CARS' as 'CARS'
+   INFO: Dumping 'SCARSPAL/DATA' as 'DATA'
+   INFO: Dumping 'SCARSPAL/SND' as 'SND'
+   INFO: Dumping 'V8' as 'V8'
+   INFO: Dumping 'V8/HUD' as 'HUD'
+   INFO: Dumping 'V8/MISC' as 'MISC'
+   INFO: Dumping 'V8/SHELL' as 'SHELL'
+   INFO: Dumping 'V8/SOUNDS' as 'SOUNDS'
+   INFO: Dumping 'V8/TERRAIN' as 'TERRAIN'
+   INFO: Dumping 'V8/VIDEO' as 'VIDEO'
+   INFO: XA file 'ACTLOGO.STR' size = 5251072, secsize = 2564, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'LUXOFLUX.STR' size = 1622016, secsize = 792, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'PROSKATE' as 'PROSKATE'
+   INFO: XA file '411.STR' size = 18546688, secsize = 9056, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+Skipping 'TRACK03.WAV;1' which is a CD-DA file
+Skipping 'MEGABNCE.WAV;1' which is a CD-DA file
+Skipping 'V8.PCM;1' which is a CD-DA file
+Catalog written to "data.cat"
+   INFO: Done.

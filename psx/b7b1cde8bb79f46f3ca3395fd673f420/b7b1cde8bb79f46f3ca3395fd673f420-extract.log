@@ -1,0 +1,15 @@
+Analyzing image "thps3_beta_chic_heav_thps12.cue"...
+   INFO: Disc mode = 2
+   INFO: First track = 1
+   INFO: Track format = 2
+   INFO: Start LSN of session = 0
+   INFO: Filesystem type = 10013
+Volume ID = 00000
+System area data written to "data.sys"
+Dumping filesystem to directory "data"...
+   INFO: Dumping '' as ''
+   INFO: XA file 'ACTIV.STR' size = 3276800, secsize = 1600, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'SHABA.STR' size = 1703936, secsize = 832, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'PLACE.STR' size = 13838336, secsize = 6757, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+Catalog written to "data.cat"
+   INFO: Done.

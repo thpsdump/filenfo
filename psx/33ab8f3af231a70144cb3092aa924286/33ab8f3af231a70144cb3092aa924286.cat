@@ -1,0 +1,378 @@
+system_area {
+  file "data.sys"
+}
+
+volume {
+  system_id [PLAYSTATION]
+  volume_id [SLED-02291]
+  volume_set_id []
+  publisher_id []
+  preparer_id []
+  application_id [PLAYSTATION]
+  copyright_file_id []
+  abstract_file_id []
+  bibliographic_file_id []
+  creation_date 1999-08-09 14:47:03.00 0
+  modification_date 0000-00-00 00:00:00.00 0
+  expiration_date 0000-00-00 00:00:00.00 0
+  effective_date 0000-00-00 00:00:00.00 0
+}
+
+dir {
+  file SYSTEM.CNF
+  file SLED_022.91
+  dir MENU {
+    xafile 256.STR
+    file GERMAN.EXE
+    file LEFT2.VAG
+    file RIGHT2.VAG
+    file SSINIT.EXE
+  }
+  dir RUGRATS {
+    file RUG.EXE
+    dir DATA {
+      dir CINEMAT {
+        xafile OPEN.BIN
+      }
+      dir DB00 {
+        file BURST2.CMD
+        file CHARACTR.RAW
+        file DB00A.RAW
+        file DB00ANM.BIN
+        file DB00FRM.BIN
+        file DB00HIE.BIN
+        file DB00LP.BIN
+        file DB00MOD.BIN
+        file DB00ROT.BIN
+        file LEVEL00.BIN
+        file LEVEL00.COL
+        file LOGO.CMD
+        file TEMPLATE.BIN
+        file TEXACTRL.DAT
+        file TEXPOS.DAT
+      }
+      dir DB02 {
+        file DB02A.RAW
+        file DB02ANM.BIN
+        file DB02FRM.BIN
+        file DB02HIE.BIN
+        file DB02LP.BIN
+        file DB02MOD.BIN
+        file DB02ROT.BIN
+        file LEVEL02.BIN
+        file LEVEL02.COL
+        file SPEECHTB.DAT
+        file TEXPOS.DAT
+      }
+      dir DB08 {
+        file SPEECHTB.DAT
+      }
+      dir DB22 {
+        file DB22A.RAW
+        file DB22ANM.BIN
+        file DB22FRM.BIN
+        file DB22HIE.BIN
+        file DB22LP.BIN
+        file DB22MOD.BIN
+        file DB22ROT.BIN
+        file LEVEL22.BIN
+        file LEVEL22.COL
+        file TEXPOS.DAT
+      }
+      dir DB24 {
+        file DB24A.RAW
+        file DB24ANM.BIN
+        file DB24FRM.BIN
+        file DB24HIE.BIN
+        file DB24LP.BIN
+        file DB24MOD.BIN
+        file DB24ROT.BIN
+        file LEVEL24.BIN
+        file LEVEL24.COL
+        file TEXPOS.DAT
+      }
+      dir DB25 {
+        file DB25A.RAW
+        file DB25ANM.BIN
+        file DB25FRM.BIN
+        file DB25HIE.BIN
+        file DB25LP.BIN
+        file DB25MOD.BIN
+        file DB25ROT.BIN
+        file LEVEL25.BIN
+        file LEVEL25.COL
+        file TEXPOS.DAT
+      }
+      dir DB28 {
+        file DB28A.RAW
+        file DB28ANM.BIN
+        file DB28FRM.BIN
+        file DB28HIE.BIN
+        file DB28LP.BIN
+        file DB28MOD.BIN
+        file DB28ROT.BIN
+        file LEVEL28.BIN
+        file LEVEL28.COL
+        file TEXPOS.DAT
+      }
+      dir FONTS {
+        file PHOUSE.FNT
+        file SYSTEM.FNT
+      }
+      dir HINTS {
+        file HINT01.TXT
+        file HINT02.TXT
+        file HINT03.TXT
+        file HINT04.TXT
+        file HINT05.TXT
+        file HINT06.TXT
+        file HINT07.TXT
+        file HINT08.TXT
+        file HINT09.TXT
+        file HINT10.TXT
+        file HINT11.TXT
+        file HINT12.TXT
+        file HINT13.TXT
+        file HINT14.TXT
+        file HINT15.TXT
+        file HINT16.TXT
+        file HINT17.TXT
+        file HINT18.TXT
+        file HINT19.TXT
+        file HINT20.TXT
+        file HINT21.TXT
+        file HINT22.TXT
+        file HINT23.TXT
+        file HINT24.TXT
+        file HINT25.TXT
+        file HINT26.TXT
+        file HINT27.TXT
+        file HINT28.TXT
+        file HINT29.TXT
+        file HINT30.TXT
+        file HINT31.TXT
+        file HINT32.TXT
+        file HINT33.TXT
+        file HINT34.TXT
+        file HINT35.TXT
+        file HINT36.TXT
+        file HINT37.TXT
+        file HINT38.TXT
+        file HINT39.TXT
+        file HINT40.TXT
+        file HINT41.TXT
+        file HINT42.TXT
+        file HINT43.TXT
+        file HINT44.TXT
+        file HINT45.TXT
+      }
+      dir MENU {
+        file MENU.TEX
+        file TEXPOS.DAT
+        dir TIMS {
+          file AISLE02.BS
+          file AISLE05.BS
+          file ANGEYES.TIM
+          file ANGMOUTH.TIM
+          file CHUEYES.TIM
+          file CHUMOUTH.TIM
+          file CYN00.BS
+          file CYN01.BS
+          file DIDEYES.TIM
+          file DIDMOUTH.TIM
+          file ENG1.BS
+          file ENG2.BS
+          file ENG3.BS
+          file ENG4.BS
+          file ENG5.BS
+          file ENG6.BS
+          file ENG7.BS
+          file GPAMOUTH.TIM
+          file GREYES.TIM
+          file HOUSE00.BS
+          file HOUSE01.BS
+          file LAREYES.TIM
+          file LARMOUTH.TIM
+          file LEGAL512.BS
+          file NICK512.BS
+          file NSPAC512.BS
+          file REPTAR02.BS
+          file REPTAR03.BS
+          file SQUIRT.TIM
+          file STEMOUTH.TIM
+          file STEVEYES.TIM
+          file STRIP.TIM
+          file STUEYES.TIM
+          file STUMOUTH.TIM
+          file TEETH00.BS
+          file TEETH01.BS
+          file THQ512.BS
+          file TOMEYES.TIM
+          file TOMMOUTH.TIM
+          file TWEYES.TIM
+          file VISIT02.BS
+          file VISIT03.BS
+          file WARNING.BS
+        }
+      }
+      dir SOUND {
+        dir SEPS {
+          file AISLE7.SEP
+          file CIRCUS.SEP
+          file GTEETH.SEP
+          file HOUSE.SEP
+          file INTRO.SEP
+          file RUGRATS.SEP
+        }
+        dir VAB {
+          file AISLE7.VB
+          file AISLE7.VH
+          file CIRCUS.VB
+          file CIRCUS.VH
+          file DB00SFX.VB
+          file DB00SFX.VH
+          file DB02SFX.VB
+          file DB02SFX.VH
+          file DB24SFX.VB
+          file DB24SFX.VH
+          file DB25SFX.VB
+          file DB25SFX.VH
+          file DB28SFX.VB
+          file DB28SFX.VH
+          file GTEETH.VB
+          file GTEETH.VH
+          file HOUSE.VB
+          file HOUSE.VH
+          file INTRO.VB
+          file INTRO.VH
+          file MENU.VB
+          file MENU.VH
+        }
+        dir XA {
+          xafile DB02.ISF
+          xafile DB08.ISF
+        }
+      }
+    }
+  }
+  dir CMRALLY {
+    file CMRALLY.EXE
+    file LEGAL.TIM
+    dir CARS {
+      dir SUBARU {
+        file DAY.BFX
+        file DAYTIM.BFX
+        file SOUNDS.BFX
+      }
+    }
+    dir GAME {
+      file ENG.BFX
+      file ENGLISH.TXT
+      file OSD.BFX
+    }
+    dir OPM {
+      file CONTROLS.TIM
+      file TEXT001.TIM
+      file TEXT002.TIM
+      file TEXT003.TIM
+      file TITLE.TIM
+    }
+    dir SETUP {
+      file AUSTRALI.BFX
+      file MONACO.BFX
+      file NZ.BFX
+      file SETUPREP.BFX
+    }
+    dir TRACKS {
+      dir AUSTRALI {
+        file 5.BFX
+        file 5.LOA
+        file 5.REP
+        file 5.VRM
+      }
+      dir MONACO {
+        file 3.BFX
+        file 3.LOA
+        file 3.VRM
+      }
+      dir NZ {
+        file 3.BFX
+        file 3.LOA
+        file 3.VRM
+      }
+    }
+  }
+  dir GDARIUS {
+    xafile BGM.XA
+    file GDARIUS.EXE
+    dir COM {
+      file DEMO.BIN
+      file DEMO.TIL
+      file DUMMY.VB
+      file DUMMY.VH
+      file JIGEN.BGL
+      file MAIN.VB
+      file MAIN.VH
+      file MENU.TIL
+      file ONCE.QMD
+      file ONCE.TIL
+      file SIGNATE.VB
+      file SIGNATE.VH
+      file SPACE.QMD
+      file SPACE.TIL
+      file TITLE.VB
+      file TITLE.VH
+      file WARN.TIL
+      file WARNING.VB
+      file WARNING.VH
+    }
+    dir R01 {
+      file ALPHA1.VB
+      file ALPHA1.VH
+      file ALPHA2.VB
+      file ALPHA2.VH
+      file DEMOP01.DEM
+      file R01.BGL
+      file R01.MAP
+      file R01.QMD
+      file R01.TIL
+      file R01A.MAP
+      file R01A.QMD
+      file R01B.MAP
+      file R01B.QMD
+      file R01BOSS.QMD
+      file R01BOSS.TIL
+      file R01BOSS2.TIL
+      file R01BOSSA.CHS
+      file R01BOSSB.CHS
+      file R01JKO.QMD
+      file ZAKO01.QMD
+      file ZONE1.BIN
+    }
+    dir R11 {
+      file LAMDA1.VB
+      file LAMDA1.VH
+    }
+  }
+  dir PROSKATE {
+    xafile 411.STR
+    file CD.HED
+    file CD.WAD
+    file PROSKATE.EXE
+  }
+  dir NOFEAR {
+    xafile NFMUS1.XA
+    xafile NFMUS2.XA
+    file NOFEAR.EXE
+    file NOFEAR.IMG
+    file NOFEAR.TOC
+  }
+  dir VIDEO {
+    xafile WUTANG.STR
+    xafile CASTROL.STR
+    xafile MOTO.STR
+    xafile EXT500.STR
+    xafile NASEEM.STR
+  }
+  file NULL3M1S.DAT
+}

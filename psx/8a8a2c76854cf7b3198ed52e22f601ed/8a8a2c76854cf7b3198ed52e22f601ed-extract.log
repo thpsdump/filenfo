@@ -1,0 +1,49 @@
+Analyzing image "(PSX) Tony Hawk's Pro Skater 2 (SLPM-86751).cue"...
+   INFO: Disc mode = 2
+   INFO: First track = 1
+   INFO: Track format = 2
+   INFO: Start LSN of session = 0
+   INFO: Filesystem type = 10013
+Volume ID = SLPM_86751
+System area data written to "data.sys"
+Dumping filesystem to directory "data"...
+   INFO: Dumping '' as ''
+   INFO: Dumping 'X' as 'X'
+   INFO: XA file 'BAILS02.STR' size = 14155776, secsize = 6912, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'BAILS01.STR' size = 13172736, secsize = 6432, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'BURNQUIS.STR' size = 12386304, secsize = 6048, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'CABALLER.STR' size = 12582912, secsize = 6144, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'CAMPBELL.STR' size = 13303808, secsize = 6496, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'GLIFBERG.STR' size = 12976128, secsize = 6336, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'HAWK.STR' size = 13107200, secsize = 6400, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'KOSTON.STR' size = 12976128, secsize = 6336, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'LASEK.STR' size = 13434880, secsize = 6560, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'MS.STR' size = 16908288, secsize = 8256, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'MULLEN.STR' size = 13303808, secsize = 6496, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'MUSKA.STR' size = 12845056, secsize = 6272, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'OD.STR' size = 17678336, secsize = 8632, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'PC.STR' size = 23511040, secsize = 11480, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'REYNOLDS.STR' size = 12845056, secsize = 6272, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'ROWLEY.STR' size = 12648448, secsize = 6176, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'SM.STR' size = 25395200, secsize = 12400, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'STEAMER.STR' size = 10616832, secsize = 5184, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'THOMAS.STR' size = 12845056, secsize = 6272, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'ATVILOGO.STR' size = 4325376, secsize = 2112, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'SUCCESS.STR' size = 1556480, secsize = 760, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'INTRO.STR' size = 30523392, secsize = 14904, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'LOGO.STR' size = 5537792, secsize = 2704, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'EDITOR.STR' size = 4659200, secsize = 2275, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'BULLRING.STR' size = 4659200, secsize = 2275, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'B1.STR' size = 4659200, secsize = 2275, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'HANGAR.STR' size = 4659200, secsize = 2275, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'HEAVEN.STR' size = 4659200, secsize = 2275, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'MAR.STR' size = 4659200, secsize = 2275, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'NY.STR' size = 4659200, secsize = 2275, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'PHILLY.STR' size = 4659200, secsize = 2275, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'SCHOOL.STR' size = 4659200, secsize = 2275, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'SS.STR' size = 4659200, secsize = 2275, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'VENICE.STR' size = 4659200, secsize = 2275, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'COMPILED.XA' size = 216989696, secsize = 105952, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: Dumping 'BMX' as 'BMX'
+Catalog written to "data.cat"
+   INFO: Done.

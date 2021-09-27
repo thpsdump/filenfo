@@ -1,0 +1,225 @@
+system_area {
+  file "data.sys"
+}
+
+volume {
+  system_id [PLAYSTATION]
+  volume_id [SLED_02078]
+  volume_set_id []
+  publisher_id []
+  preparer_id []
+  application_id [PLAYSTATION]
+  copyright_file_id []
+  abstract_file_id []
+  bibliographic_file_id []
+  creation_date 1999-04-30 20:20:00.00 36
+  modification_date 0000-00-00 00:00:00.00 0
+  expiration_date 0000-00-00 00:00:00.00 0
+  effective_date 0000-00-00 00:00:00.00 0
+}
+
+dir {
+  file SYSTEM.CNF
+  file SLED_020.78
+  dir PSZ {
+    file PZONE.DAT
+    file PZONE.EXE
+    xafile ARMYMEN.FMV
+    xafile DUMMY0.FMV
+    xafile GTA.FMV
+    xafile DUMMY1.FMV
+    xafile MH.FMV
+    xafile DUMMY2.FMV
+    xafile RAINBOW6.FMV
+    xafile DUMMY3.FMV
+    xafile RAYMAN2.FMV
+    xafile DUMMY4.FMV
+    xafile PSZINTRO.FMV
+    xafile DUMMY5.FMV
+  }
+  dir GTA {
+    file AUDIO.VSR
+    file DEMO.VSR
+    file DLOADING.VSR
+    file DMISSION.VSR
+    file DNYC.VSR
+    file FNT_8X8.VSR
+    file FRONTEND.VSR
+    file GAMEFONT.VSR
+    file GTAMOG.VSR
+    file PALETTES.VSR
+    file GTAD.EXE
+  }
+  dir EXE {
+    xafile 1516CMR.IXA
+    file DEMO.PXE
+    file DEMO1.BIN
+    file DEMO2.BIN
+    file DEMO3.BIN
+    file DEMO4.BIN
+    file DEMO5.BIN
+    file MAIN.PXE
+    file MAIND.PXE
+    file NULL.PXE
+    file RECORD.TMP
+    file RECORD1.TMP
+    file SCEEDEMO.PXE
+    dir SDIV {
+      file MONTREAD.SUN
+      file MONZAD.SUN
+    }
+    dir SNORM {
+      file MONTREA.SUN
+      file MONZA.SUN
+    }
+    dir SNORM1 {
+      file MONTREA.SUN
+      file MONZA.SUN
+    }
+  }
+  dir SCARSPAL {
+    file DVLC.BIN
+    file SCARSPAL.EXE
+    file SCARSPAL.SYM
+    dir 4P {
+      dir B {
+        file 4.MAP
+        file 4.MF1
+        file 4.MFP
+        file T.MOM
+        file T.TMD
+      }
+    }
+    dir B {
+      file T.BAL
+      file T.BDG
+      file T.CL1
+      file T.COL
+      file T.GFX
+      file T.GR2
+      file T.GRR
+      file T.HCL
+      file T.HMP
+      file T.MAP
+      file T.MFX
+      file T.MMM
+      file T.MOM
+      file T.MVI
+      file T.OBM
+      file T.P28
+      file T.P29
+      file T.PAL
+      file T.TMD
+      file T.VIS
+      file T.WAY
+    }
+    dir CARS {
+      file C0.MOB
+      file C0.TMD
+      file C1.MOB
+      file C1.TMD
+      file C2.MOB
+      file C2.TMD
+      file C3.MOB
+      file C3.TMD
+      file C4.MOB
+      file C4.TMD
+      file C5.MOB
+      file C5.TMD
+      file C6.MOB
+      file C6.TMD
+      file C7.MOB
+      file C7.TMD
+      file C8.MOB
+      file C8.TMD
+    }
+    dir DATA {
+      file BUBBLE.RAW
+      file ELEC.CHR
+      file FLAGS.CHR
+      file FONT.P15
+      file HEADLITE.RAW
+      file LENS.RAW
+      file LENS2.RAW
+      file NIGHT.GFX
+      file NIGHT.PAL
+      file OBJECT.P30
+      file OBJECT.P31
+      file OBJECT.PAL
+      file SCARS1.TIM
+      file SCARS2.TIM
+      file SCARS3.TIM
+      file SCARS4.TIM
+      file SCARS5.TIM
+      file SHADOW.CHR
+      file SIGHTS.CHR
+      file SMOKE.CHR
+      file SPEEDO.CHR
+      file SPHERE.CHR
+      file STAR.RAW
+      file UBI.GFX
+      file UBI.PAL
+      file VIVID.GFX
+      file VIVID.PAL
+    }
+    dir SND {
+      file V.000
+      file V.001
+      file V.002
+      file V.003
+      file V.004
+      file V.005
+      file V.006
+      file V.007
+      file V.008
+      file V.009
+      file V.010
+      file V.011
+      file V.012
+      file V.013
+      file V.014
+      file V.015
+      file V.VH
+    }
+  }
+  dir V8 {
+    file COMMON.EXP
+    file V8DEMO.EXE
+    dir HUD {
+      file ARMS.EXP
+      file FONT.FNT
+      file HUD.TBL
+    }
+    dir MISC {
+      file GAME.FNT
+      file KONG.FNT
+    }
+    dir SHELL {
+      file LOAD.DLL
+      file LOAD.TBL
+      file RESOURCE.TBL
+      file SHELL.DLL
+      file SLOGAN.FNT
+      file SOUNDS.SND
+      file VEHICLES.EXP
+      file WARNING.TIM
+    }
+    dir SOUNDS {
+      file MAIN.SND
+    }
+    dir TERRAIN {
+      file OILFIELD.DLL
+      file OILFIELD.EXP
+    }
+    dir VIDEO {
+      xafile ACTLOGO.STR
+      xafile LUXOFLUX.STR
+    }
+  }
+  dir PROSKATE {
+    xafile 411.STR
+    file CD.HED
+    file CD.WAD
+    file PROSKATE.EXE
+  }
+}

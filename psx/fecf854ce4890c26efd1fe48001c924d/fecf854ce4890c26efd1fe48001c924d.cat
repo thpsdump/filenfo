@@ -1,0 +1,180 @@
+system_area {
+  file "data.sys"
+}
+
+volume {
+  system_id [PLAYSTATION]
+  volume_id [SCUS_94429]
+  volume_set_id []
+  publisher_id [SCEA]
+  preparer_id [LIFELIKE]
+  application_id [PLAYSTATION]
+  copyright_file_id [SIE]
+  abstract_file_id []
+  bibliographic_file_id []
+  creation_date 1999-02-26 15:38:16.81 36
+  modification_date 0000-00-00 00:00:00.00 0
+  expiration_date 0000-00-00 00:00:00.00 0
+  effective_date 0000-00-00 00:00:00.00 0
+}
+
+dir {
+  file SYSTEM.CNF
+  file PSX.EXE
+  file SCUS_944.29
+  file MAIN.EXE
+  file CONTENTS.DAT
+  file MENU.FF
+  dir ELMOABC {
+    dir ABC {
+      file GARDEN.WDL
+      file GENABC.WDL
+      file ORCHARD.WDL
+      file SBGARDEN.WDL
+      file SBORCH.WDL
+    }
+    dir AXA {
+      xafile X000002X.XA
+      xafile X000002Y.XA
+      xafile X000003X.XA
+      xafile X000003Y.XA
+      file X0001025.WDL
+      file X0002025.WDL
+      xafile X600001X.XA
+      xafile X600001Y.XA
+      file X6200000.WDL
+      file X6200015.WDL
+      file X620001A.WDL
+      file X620001F.WDL
+      xafile X620001X.XA
+      xafile X620001Y.XA
+      file X6200024.WDL
+      xafile X620002X.XA
+      xafile X620002Y.XA
+      xafile X620003X.XA
+      xafile X620003Y.XA
+      file X6800000.WDL
+      file X6800010.WDL
+      file X680001A.WDL
+      xafile X680001X.XA
+      xafile X680001Y.XA
+      file X6800024.WDL
+      xafile X680002X.XA
+      xafile X680002Y.XA
+      xafile X680003X.XA
+      xafile X680003Y.XA
+    }
+    dir MOVIES {
+      xafile ABCTITLE.STR
+      file LEGAL.STR
+    }
+    file ELMOABC.EXE
+  }
+  dir BLITZ {
+    dir DATA {
+      file ART_ATTR.BIN
+      file ART_GAME.BIN
+      file ART_MUG.BIN
+      file ART_SND.BIN
+      file ART_VS.BIN
+    }
+    dir MOVIE {
+      xafile BLITZ.STR
+    }
+    dir SND_XA {
+      xafile CITYNAME.IXA
+      xafile FULNAME1.IXA
+      xafile FULNAME2.IXA
+      xafile HITS.IXA
+      xafile RAMBLE.IXA
+      xafile SCORE.IXA
+      xafile SCORE2.IXA
+      xafile TAUNTS.IXA
+      xafile TEAMNAME.IXA
+      xafile TEAMQ1.IXA
+      xafile TEAMT1.IXA
+      xafile TEAMT2.IXA
+      xafile TEAMT3.IXA
+      xafile THROW1.IXA
+      xafile THROW2.IXA
+      xafile ZZZLONG.IXA
+    }
+    dir ZZOVER {
+      file OVERATTR.BIN
+      file OVERCHER.BIN
+      file OVERLOGO.BIN
+      file OVERMENU.BIN
+      file OVERMODL.BIN
+      file OVERMOVE.BIN
+      file OVERNAME.BIN
+      file OVERSTAD.BIN
+      file OVERSTDA.BIN
+    }
+    dir ZZOVERH {
+      file AHEDBRAN.BIN
+      file AHEDLONG.BIN
+      file AHEDRAID.BIN
+      file AHEDSHIN.BIN
+      file AHEDSHRT.BIN
+      file AHEDSKUL.BIN
+      file AHEDTHUG.BIN
+      file HHEDBRAN.BIN
+      file HHEDLONG.BIN
+      file HHEDRAID.BIN
+      file HHEDSHIN.BIN
+      file HHEDSHRT.BIN
+      file HHEDSKUL.BIN
+      file HHEDTHUG.BIN
+    }
+    file NFL.EXE
+  }
+  dir ABE2 {
+    file ABE.EXE
+    file ST.LVL
+    file ST.OVL
+    file LA.OVL
+    xafile ST.MOV
+    file MI.OVL
+    file M2.OVL
+    file M3.OVL
+    file L1.OVL
+    file L2.OVL
+    file L3.OVL
+    file L4.OVL
+    file MI.LVL
+    xafile MI.MOV
+    file L5.OVL
+    file L6.OVL
+    file L7.OVL
+    file L8.OVL
+    file L9.OVL
+    file M7.OVL
+    file K9.OVL
+    file KA.OVL
+    file KB.OVL
+    file CR.LVL
+    xafile CR.MOV
+  }
+  dir BM4 {
+    file BM4.EXE
+    xafile BM4BGMS.XA
+    xafile BM4GAME.XA
+    file DATA.BIN
+    file VAB.BIN
+  }
+  dir R4DEMO {
+    file R4DEMO.EXE
+    file R4.BIN
+    xafile R4.STR
+  }
+  dir MOVIES {
+    xafile BLOODY2.STR
+    xafile JADE.STR
+    xafile MLB.STR
+    xafile THAWK.STR
+    xafile OCEAN.STR
+    xafile OPM20.STR
+    file ENDCAP.STR
+  }
+  file DUMMY.FIL
+}

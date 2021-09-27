@@ -1,0 +1,61 @@
+Analyzing image "[PSX] Play Fun 10-99 [SLED-02291] [G].cue"...
+   INFO: Disc mode = 2
+   INFO: First track = 1
+   INFO: Track format = 2
+   INFO: Start LSN of session = 0
+   INFO: Filesystem type = 10013
+Volume ID = SLED-02291
+System area data written to "data.sys"
+Dumping filesystem to directory "data"...
+   INFO: Dumping '' as ''
+   INFO: Dumping 'MENU' as 'MENU'
+   INFO: XA file '256.STR' size = 1900544, secsize = 928, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'RUGRATS' as 'RUGRATS'
+   INFO: Dumping 'RUGRATS/DATA' as 'DATA'
+   INFO: Dumping 'RUGRATS/DATA/CINEMAT' as 'CINEMAT'
+   INFO: XA file 'OPEN.BIN' size = 14481408, secsize = 7071, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'RUGRATS/DATA/DB00' as 'DB00'
+   INFO: Dumping 'RUGRATS/DATA/DB02' as 'DB02'
+   INFO: Dumping 'RUGRATS/DATA/DB08' as 'DB08'
+   INFO: Dumping 'RUGRATS/DATA/DB22' as 'DB22'
+   INFO: Dumping 'RUGRATS/DATA/DB24' as 'DB24'
+   INFO: Dumping 'RUGRATS/DATA/DB25' as 'DB25'
+   INFO: Dumping 'RUGRATS/DATA/DB28' as 'DB28'
+   INFO: Dumping 'RUGRATS/DATA/FONTS' as 'FONTS'
+   INFO: Dumping 'RUGRATS/DATA/HINTS' as 'HINTS'
+   INFO: Dumping 'RUGRATS/DATA/MENU' as 'MENU'
+   INFO: Dumping 'RUGRATS/DATA/MENU/TIMS' as 'TIMS'
+   INFO: Dumping 'RUGRATS/DATA/SOUND' as 'SOUND'
+   INFO: Dumping 'RUGRATS/DATA/SOUND/SEPS' as 'SEPS'
+   INFO: Dumping 'RUGRATS/DATA/SOUND/VAB' as 'VAB'
+   INFO: Dumping 'RUGRATS/DATA/SOUND/XA' as 'XA'
+   INFO: XA file 'DB02.ISF' size = 6045696, secsize = 2952, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'DB08.ISF' size = 12861440, secsize = 6280, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'CMRALLY' as 'CMRALLY'
+   INFO: Dumping 'CMRALLY/CARS' as 'CARS'
+   INFO: Dumping 'CMRALLY/CARS/SUBARU' as 'SUBARU'
+   INFO: Dumping 'CMRALLY/GAME' as 'GAME'
+   INFO: Dumping 'CMRALLY/OPM' as 'OPM'
+   INFO: Dumping 'CMRALLY/SETUP' as 'SETUP'
+   INFO: Dumping 'CMRALLY/TRACKS' as 'TRACKS'
+   INFO: Dumping 'CMRALLY/TRACKS/AUSTRALI' as 'AUSTRALI'
+   INFO: Dumping 'CMRALLY/TRACKS/MONACO' as 'MONACO'
+   INFO: Dumping 'CMRALLY/TRACKS/NZ' as 'NZ'
+   INFO: Dumping 'GDARIUS' as 'GDARIUS'
+   INFO: XA file 'BGM.XA' size = 18202624, secsize = 8888, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'GDARIUS/COM' as 'COM'
+   INFO: Dumping 'GDARIUS/R01' as 'R01'
+   INFO: Dumping 'GDARIUS/R11' as 'R11'
+   INFO: Dumping 'PROSKATE' as 'PROSKATE'
+   INFO: XA file '411.STR' size = 18546688, secsize = 9056, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'NOFEAR' as 'NOFEAR'
+   INFO: XA file 'NFMUS1.XA' size = 14073856, secsize = 6872, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'NFMUS2.XA' size = 11788288, secsize = 5756, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'VIDEO' as 'VIDEO'
+   INFO: XA file 'WUTANG.STR' size = 33046528, secsize = 16136, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'CASTROL.STR' size = 30736384, secsize = 15008, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'MOTO.STR' size = 27525120, secsize = 13440, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'EXT500.STR' size = 36519936, secsize = 17832, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'NASEEM.STR' size = 30965760, secsize = 15120, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+Catalog written to "data.cat"
+   INFO: Done.

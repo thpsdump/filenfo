@@ -1,0 +1,15 @@
+Analyzing image "[PSX] Tony Hawk's Pro Skater 2 [Demo CD] [SLUS-90086].cue"...
+   INFO: Disc mode = 2
+   INFO: First track = 1
+   INFO: Track format = 2
+   INFO: Start LSN of session = 0
+   INFO: Filesystem type = 10013
+Volume ID = SLUS90086
+System area data written to "data.sys"
+Dumping filesystem to directory "data"...
+   INFO: Dumping '' as ''
+   INFO: XA file 'ATVILOGO.STR' size = 4325376, secsize = 2112, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'COMPILED.XA' size = 36880384, secsize = 18008, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'LOGO.STR' size = 3702784, secsize = 1808, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+Catalog written to "data.cat"
+   INFO: Done.

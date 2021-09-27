@@ -1,0 +1,43 @@
+Analyzing image "Kiosk Demo Disc Version 1.21 [SCUS-94696].cue"...
+   INFO: Disc mode = 3
+   INFO: First track = 1
+   INFO: Track format = 2
+   INFO: Start LSN of session = 0
+   INFO: Filesystem type = 10013
+Volume ID = SCUS_94696
+System area data written to "data.sys"
+Dumping filesystem to directory "data"...
+   INFO: Dumping '' as ''
+   INFO: Dumping 'R4DEMO' as 'R4DEMO'
+   INFO: XA file 'R4.STR' size = 18989056, secsize = 9272, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'SPYRO3' as 'SPYRO3'
+   INFO: XA file 'SPEECH.STR' size = 32249856, secsize = 15747, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'S0' as 'S0'
+   INFO: Dumping 'PROSKATE' as 'PROSKATE'
+   INFO: XA file '411.STR' size = 18546688, secsize = 9056, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'MINC' as 'MINC'
+   INFO: XA file 'DISNEY.STR' size = 4016128, secsize = 1961, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'LOGOA2M.STR' size = 1882112, secsize = 919, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'SPEECHES.XA' size = 18825216, secsize = 9192, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'MUSIC.XA' size = 15015936, secsize = 7332, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'TR4' as 'TR4'
+   INFO: Dumping 'TR4/DATA' as 'DATA'
+   INFO: XA file 'XA1.XA' size = 27656192, secsize = 13504, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'KART' as 'KART'
+   INFO: Dumping 'KART/XA' as 'XA'
+   INFO: XA file 'S00.XA' size = 3276800, secsize = 1600, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'SPIDEY' as 'SPIDEY'
+   INFO: XA file 'COMPILED.XA' size = 13926400, secsize = 6800, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'SL2' as 'SL2'
+   INFO: Dumping 'SL2/MENUDATA' as 'MENUDATA'
+   INFO: Dumping 'SL2/GAMEDATA' as 'GAMEDATA'
+   INFO: Dumping 'SL2/BSEND' as 'BSEND'
+   INFO: Dumping 'SL2/MOVIES' as 'MOVIES'
+   INFO: XA file 'MGN_15A.STR' size = 3684352, secsize = 1799, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'SL_MUSE.STR' size = 21331968, secsize = 10416, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'CRASHBSH' as 'CRASHBSH'
+   INFO: Dumping 'MOVIES' as 'MOVIES'
+   INFO: XA file 'LILO.STR' size = 10502144, secsize = 5128, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'TIGER.STR' size = 9371648, secsize = 4576, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+Catalog written to "data.cat"
+   INFO: Done.

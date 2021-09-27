@@ -1,0 +1,58 @@
+system_area {
+  file "data.sys"
+}
+
+volume {
+  system_id [PLAYSTATION]
+  volume_id [SCUS_94446]
+  volume_set_id []
+  publisher_id [SCEA]
+  preparer_id [LIFELIKE]
+  application_id [PLAYSTATION]
+  copyright_file_id [SIE]
+  abstract_file_id []
+  bibliographic_file_id []
+  creation_date 1999-11-03 14:28:20.89 36
+  modification_date 0000-00-00 00:00:00.00 0
+  expiration_date 0000-00-00 00:00:00.00 0
+  effective_date 0000-00-00 00:00:00.00 0
+}
+
+dir {
+  file SYSTEM.CNF
+  file SCUS_944.46
+  file PSX.EXE
+  file MENU.EXE
+  file CONTENTS.DAT
+  file MENU.FF
+  dir MOVIES {
+    xafile BEFORE.STR
+    xafile MAGGIE.STR
+    xafile AFTER.STR
+    xafile DOWNLOAD.STR
+    xafile EVENT.STR
+    xafile BTS.STR
+    xafile THREADZ.STR
+    file ENDCAP.STR
+  }
+  dir WORMHOLE {
+    file WORMHOLE.EXE
+    file WORMHOLE.FF
+    xafile ENDWIN.STR
+    xafile ENDLOSE.STR
+    xafile WH.STR
+    xafile NEXT.STR
+    file ENDCAP.STR
+  }
+  dir MOVIES2 {
+    xafile PSX2.STR
+    xafile CGD.STR
+    xafile SPYRO.STR
+    xafile TGS.STR
+    xafile LAMMY.STR
+    xafile TOMBA.STR
+    xafile CTR.STR
+    file ENDCAP.STR
+  }
+  file PAD.DAT
+}

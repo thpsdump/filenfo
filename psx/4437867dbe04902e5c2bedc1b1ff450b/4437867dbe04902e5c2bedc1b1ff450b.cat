@@ -1,0 +1,27 @@
+system_area {
+  file "data.sys"
+}
+
+volume {
+  system_id [PLAYSTATION]
+  volume_id [SLUS90086]
+  volume_set_id []
+  publisher_id [ACTIVISION]
+  preparer_id []
+  application_id [PLAYSTATION]
+  copyright_file_id []
+  abstract_file_id []
+  bibliographic_file_id []
+  creation_date 2012-10-22 13:33:20.00 -28
+  modification_date 2012-10-22 13:33:20.00 -28
+  expiration_date 0000-00-00 00:00:00.00 0
+  effective_date 0000-00-00 00:00:00.00 0
+}
+
+dir {
+  file CD.HED
+  file CD.WAD
+  file MAIN.SYM
+  file SLUS_900.86
+  file SYSTEM.CNF
+}

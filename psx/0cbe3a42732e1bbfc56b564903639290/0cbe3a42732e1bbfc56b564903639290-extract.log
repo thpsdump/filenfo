@@ -1,0 +1,33 @@
+Analyzing image "[PSX] Official U.S. PlayStation Magazine 34 [SCUS-94593].cue"...
+   INFO: Disc mode = 3
+   INFO: First track = 1
+   INFO: Track format = 2
+   INFO: Start LSN of session = 0
+   INFO: Filesystem type = 10013
+Volume ID = SCUS_94593
+System area data written to "data.sys"
+Dumping filesystem to directory "data"...
+   INFO: Dumping '' as ''
+   INFO: Dumping 'MRDRI' as 'MRDRI'
+   INFO: XA file 'BGM.XA' size = 19906560, secsize = 9720, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'STARTREK' as 'STARTREK'
+   INFO: XA file 'STARTREK.RES' size = 79278080, secsize = 38710, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'LOD' as 'LOD'
+   INFO: Dumping 'LOD/OVL' as 'OVL'
+   INFO: Dumping 'LOD/SECT' as 'SECT'
+   INFO: Dumping 'LOD/SIM' as 'SIM'
+   INFO: Dumping 'LOD/SUBMAP' as 'SUBMAP'
+   INFO: Dumping 'LOD/XA' as 'XA'
+   INFO: XA file 'LODXA00.XA' size = 8716288, secsize = 4256, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'MLB2K1' as 'MLB2K1'
+   INFO: Dumping 'PROSKATE' as 'PROSKATE'
+   INFO: XA file 'ATVILOGO.STR' size = 4325376, secsize = 2112, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'LOGO.STR' size = 3702784, secsize = 1808, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'COMPILED.XA' size = 36880384, secsize = 18008, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'MOVIES' as 'MOVIES'
+   INFO: XA file 'INTRO.STR' size = 19922944, secsize = 9728, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'JEDI.STR' size = 32292864, secsize = 15768, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'TENCHU2.STR' size = 27967488, secsize = 13656, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'COVERT.STR' size = 30916608, secsize = 15096, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+Catalog written to "data.cat"
+   INFO: Done.

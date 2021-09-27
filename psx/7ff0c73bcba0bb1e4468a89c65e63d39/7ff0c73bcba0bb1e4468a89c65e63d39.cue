@@ -1,0 +1,3 @@
+FILE "THPS3-Final-Review-Build.bin" BINARY
+TRACK 1 MODE2/2352
+INDEX 1 00:00:00

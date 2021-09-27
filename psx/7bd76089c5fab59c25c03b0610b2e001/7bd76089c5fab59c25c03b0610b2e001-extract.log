@@ -1,0 +1,32 @@
+Analyzing image "PSU 3-2 Disc 1.cue"...
+   INFO: Disc mode = 2
+   INFO: First track = 1
+   INFO: Track format = 2
+   INFO: Start LSN of session = 0
+   INFO: Filesystem type = 10013
+Volume ID = SCUS_94442
+System area data written to "data.sys"
+Dumping filesystem to directory "data"...
+   INFO: Dumping '' as ''
+   INFO: XA file 'TSUMU.XA' size = 28344320, secsize = 13840, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'WORMHOLE' as 'WORMHOLE'
+   INFO: XA file 'WH.STR' size = 21643264, secsize = 10568, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'NEXT.STR' size = 18284544, secsize = 8928, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'MOVIES' as 'MOVIES'
+   INFO: XA file 'TRANS.STR' size = 1572864, secsize = 768, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'MAGGIE.STR' size = 33275904, secsize = 16248, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'UG.STR' size = 2068480, secsize = 1010, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'PS2_0.STR' size = 79626240, secsize = 38880, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'PS2_1.STR' size = 24297472, secsize = 11864, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'PS2_2.STR' size = 6520832, secsize = 3184, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'PS2_3.STR' size = 9863168, secsize = 4816, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'PS2_4.STR' size = 16580608, secsize = 8096, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'PS2_5.STR' size = 7520256, secsize = 3672, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'PS2_6.STR' size = 7995392, secsize = 3904, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'PS2_7.STR' size = 14204928, secsize = 6936, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'MOH.STR' size = 17825792, secsize = 8704, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'JAMM.STR' size = 23379968, secsize = 11416, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'STAR.STR' size = 80957440, secsize = 39530, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'E3.STR' size = 91783168, secsize = 44816, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+Catalog written to "data.cat"
+   INFO: Done.

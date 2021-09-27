@@ -1,0 +1,90 @@
+system_area {
+  file "data.sys"
+}
+
+volume {
+  system_id [PLAYSTATION]
+  volume_id [SCUS_94480]
+  volume_set_id []
+  publisher_id [SCEA]
+  preparer_id [LIFELIKE]
+  application_id [PLAYSTATION]
+  copyright_file_id [SIE]
+  abstract_file_id []
+  bibliographic_file_id []
+  creation_date 1999-09-09 12:18:37.18 36
+  modification_date 0000-00-00 00:00:00.00 0
+  expiration_date 0000-00-00 00:00:00.00 0
+  effective_date 0000-00-00 00:00:00.00 0
+}
+
+dir {
+  file FF8.EXE
+  file FF8TRY.IMG
+  file MENU.EXE
+  file SLUS_900.29
+  dir MENU {
+    file EFF8.TIM
+    file EKEY_0.TIM
+    file EKEY_1.TIM
+    file EKEY_2.TIM
+    file ETC.OBJ
+    file ETUTO_0.TIM
+    file ETUTO_1.TIM
+    file ETUTO_2.TIM
+    file ETUTO_3.TIM
+    file ETUTO_4.TIM
+    file ETUTO_5.TIM
+    file ETUTO_6.TIM
+    file ETUTO_7.TIM
+    file ETUTO_8.TIM
+    file LOGO.OBJ
+    file MSG.OBJ
+    file SEQ.OBJ
+    file SQEA.TIM
+    file WAV.OBJ
+  }
+  file SYSTEM.CNF
+  file SCUS_944.80
+  file PSX.EXE
+  file LAUNCH.EXE
+  file MAIN.EXE
+  file CONTENTS.DAT
+  file MENU.FF
+  dir KIDZ {
+    file KIDZ.EXE
+    file KKIIDDZZ.HED
+    file KKIIDDZZ.DAT
+    file KKIIDDZZ.BNS
+    file TITLE.ALL
+    xafile TALK.STR
+    xafile TITLE.STR
+  }
+  dir KART {
+    file KART.EXE
+    file KART.HWL
+    file SAMPLER.BIG
+    dir XA {
+      xafile S00.XA
+    }
+  }
+  dir PROSKATE {
+    file PROSKATE.EXE
+    file CD.HED
+    file CD.WAD
+    xafile GOLDFING.STR
+    xafile ATVILOGO.STR
+    xafile LOGO.STR
+  }
+  dir CB4 {
+    file CB4.EXE
+    file SAMPLE.DAT
+  }
+  dir MOVIES {
+    xafile PIZZA.STR
+    xafile PIZZAD1.STR
+    xafile COOL.STR
+    file ENDCAP.STR
+  }
+  file DUMMY.FIL
+}

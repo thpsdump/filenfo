@@ -1,0 +1,44 @@
+Analyzing image "Kiosk Demo Disc Version 1.18 [SCUS-94667].cue"...
+   INFO: Disc mode = 3
+   INFO: First track = 1
+   INFO: Track format = 2
+   INFO: Start LSN of session = 0
+   INFO: Filesystem type = 10013
+Volume ID = SCUS_94667
+System area data written to "data.sys"
+Dumping filesystem to directory "data"...
+   INFO: Dumping '' as ''
+   INFO: Dumping 'CB5' as 'CB5'
+   INFO: Dumping 'S0' as 'S0'
+   INFO: Dumping 'SPYRO3' as 'SPYRO3'
+   INFO: XA file 'SPEECH.STR' size = 32249856, secsize = 15747, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'DDR' as 'DDR'
+   INFO: XA file 'XA.STR' size = 5488640, secsize = 2680, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'US_01293' as 'US_01293'
+   INFO: Dumping 'US_01293/FMV' as 'FMV'
+   INFO: XA file 'THQ.STR' size = 2457600, secsize = 1200, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'HOTGEN.STR' size = 966656, secsize = 472, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'ATOD.STR' size = 2795520, secsize = 1365, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'US_01293/SOUNDS' as 'SOUNDS'
+   INFO: Dumping 'US_01293/MISC' as 'MISC'
+   INFO: Dumping 'US_01293/STRINGS' as 'STRINGS'
+   INFO: Dumping 'US_01293/GENERIC' as 'GENERIC'
+   INFO: Dumping 'US_01293/VEHICLES' as 'VEHICLES'
+   INFO: Dumping 'US_01293/MAPS' as 'MAPS'
+   INFO: Dumping 'US_01293/MAPS/STAGE1' as 'STAGE1'
+   INFO: Dumping 'MEGA' as 'MEGA'
+   INFO: Dumping 'DEMO' as 'DEMO'
+   INFO: Dumping 'LOD' as 'LOD'
+   INFO: Dumping 'LOD/OVL' as 'OVL'
+   INFO: Dumping 'LOD/SECT' as 'SECT'
+   INFO: Dumping 'LOD/SIM' as 'SIM'
+   INFO: Dumping 'LOD/SUBMAP' as 'SUBMAP'
+   INFO: Dumping 'LOD/XA' as 'XA'
+   INFO: XA file 'LODXA00.XA' size = 8716288, secsize = 4256, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'MOVIES' as 'MOVIES'
+   INFO: XA file 'BATMAN.STR' size = 20660224, secsize = 10088, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'TH3.STR' size = 21528576, secsize = 10512, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'DIGIMON.STR' size = 14352384, secsize = 7008, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'WORMSWP.STR' size = 29753344, secsize = 14528, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+Catalog written to "data.cat"
+   INFO: Done.

@@ -1,0 +1,36 @@
+Analyzing image "(PSX) PlayStation Underground 3.2 (CD2) (Demo) (SCUS-94443).cue"...
+   INFO: Disc mode = 3
+   INFO: First track = 1
+   INFO: Track format = 2
+   INFO: Start LSN of session = 0
+   INFO: Filesystem type = 10013
+Volume ID = SCUS_94443
+System area data written to "data.sys"
+Dumping filesystem to directory "data"...
+   INFO: Dumping '' as ''
+   INFO: Dumping 'MENU' as 'MENU'
+   INFO: Dumping 'UJL' as 'UJL'
+   INFO: XA file 'LOGO.IKI' size = 1556480, secsize = 760, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'ST1.XA' size = 22396928, secsize = 10936, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'TITLE.IKI' size = 4198400, secsize = 2050, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'EHRGEIZ' as 'EHRGEIZ'
+   INFO: XA file 'BGM001.XA' size = 19716096, secsize = 9627, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'BGM002.XA' size = 4757504, secsize = 2323, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'TESNOBI.STR' size = 28200960, secsize = 13770, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'PROSKATE' as 'PROSKATE'
+   INFO: XA file '411.STR' size = 18546688, secsize = 9056, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'RASETSU' as 'RASETSU'
+   INFO: Dumping 'RASETSU/0' as '0'
+   INFO: XA file 'OP.STR' size = 19845120, secsize = 9690, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'KIDZ' as 'KIDZ'
+   INFO: XA file 'TALK.STR' size = 4816896, secsize = 2352, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'TITLE.STR' size = 8835072, secsize = 4314, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'X3' as 'X3'
+   INFO: XA file '989STUDI.STR' size = 1638400, secsize = 800, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'MLB2000' as 'MLB2000'
+   INFO: Dumping 'MOVIES' as 'MOVIES'
+   INFO: XA file 'JETALPHA.STR' size = 14696448, secsize = 7176, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'TOKYO.STR' size = 45711360, secsize = 22320, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'VAULT.STR' size = 3883008, secsize = 1896, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+Catalog written to "data.cat"
+   INFO: Done.

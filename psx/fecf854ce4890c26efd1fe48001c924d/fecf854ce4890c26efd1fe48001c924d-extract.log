@@ -1,0 +1,74 @@
+Analyzing image "[PSX] Official U.S. PlayStation Magazine Demo Disc 21 [SCUS-94429].cue"...
+   INFO: Disc mode = 3
+   INFO: First track = 1
+   INFO: Track format = 2
+   INFO: Start LSN of session = 0
+   INFO: Filesystem type = 10013
+Volume ID = SCUS_94429
+System area data written to "data.sys"
+Dumping filesystem to directory "data"...
+   INFO: Dumping '' as ''
+   INFO: Dumping 'ELMOABC' as 'ELMOABC'
+   INFO: Dumping 'ELMOABC/ABC' as 'ABC'
+   INFO: Dumping 'ELMOABC/AXA' as 'AXA'
+   INFO: XA file 'X000002X.XA' size = 2064384, secsize = 1008, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'X000002Y.XA' size = 622592, secsize = 304, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'X000003X.XA' size = 1081344, secsize = 528, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'X000003Y.XA' size = 622592, secsize = 304, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'X600001X.XA' size = 1867776, secsize = 912, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'X600001Y.XA' size = 622592, secsize = 304, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'X620001X.XA' size = 4194304, secsize = 2048, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'X620001Y.XA' size = 622592, secsize = 304, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'X620002X.XA' size = 4030464, secsize = 1968, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'X620002Y.XA' size = 622592, secsize = 304, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'X620003X.XA' size = 1507328, secsize = 736, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'X620003Y.XA' size = 622592, secsize = 304, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'X680001X.XA' size = 4259840, secsize = 2080, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'X680001Y.XA' size = 622592, secsize = 304, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'X680002X.XA' size = 3571712, secsize = 1744, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'X680002Y.XA' size = 622592, secsize = 304, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'X680003X.XA' size = 2850816, secsize = 1392, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'X680003Y.XA' size = 622592, secsize = 304, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'ELMOABC/MOVIES' as 'MOVIES'
+   INFO: XA file 'ABCTITLE.STR' size = 7946240, secsize = 3880, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'BLITZ' as 'BLITZ'
+   INFO: Dumping 'BLITZ/DATA' as 'DATA'
+   INFO: Dumping 'BLITZ/MOVIE' as 'MOVIE'
+   INFO: XA file 'BLITZ.STR' size = 3244032, secsize = 1584, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'BLITZ/SND_XA' as 'SND_XA'
+   INFO: XA file 'CITYNAME.IXA' size = 1310720, secsize = 640, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'FULNAME1.IXA' size = 1179648, secsize = 576, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'FULNAME2.IXA' size = 1441792, secsize = 704, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'HITS.IXA' size = 1245184, secsize = 608, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'RAMBLE.IXA' size = 1114112, secsize = 544, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'SCORE.IXA' size = 1507328, secsize = 736, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'SCORE2.IXA' size = 1179648, secsize = 576, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'TAUNTS.IXA' size = 1572864, secsize = 768, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'TEAMNAME.IXA' size = 2162688, secsize = 1056, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'TEAMQ1.IXA' size = 917504, secsize = 448, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'TEAMT1.IXA' size = 1507328, secsize = 736, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'TEAMT2.IXA' size = 851968, secsize = 416, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'TEAMT3.IXA' size = 851968, secsize = 416, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'THROW1.IXA' size = 1900544, secsize = 928, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'THROW2.IXA' size = 1310720, secsize = 640, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'ZZZLONG.IXA' size = 8323072, secsize = 4064, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'BLITZ/ZZOVER' as 'ZZOVER'
+   INFO: Dumping 'BLITZ/ZZOVERH' as 'ZZOVERH'
+   INFO: Dumping 'ABE2' as 'ABE2'
+   INFO: XA file 'ST.MOV' size = 1062912, secsize = 519, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'MI.MOV' size = 43765760, secsize = 21370, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'CR.MOV' size = 0, secsize = 0, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'BM4' as 'BM4'
+   INFO: XA file 'BM4BGMS.XA' size = 9256960, secsize = 4520, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'BM4GAME.XA' size = 1499136, secsize = 732, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'R4DEMO' as 'R4DEMO'
+   INFO: XA file 'R4.STR' size = 18989056, secsize = 9272, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'MOVIES' as 'MOVIES'
+   INFO: XA file 'BLOODY2.STR' size = 22085632, secsize = 10784, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'JADE.STR' size = 48865280, secsize = 23860, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'MLB.STR' size = 22315008, secsize = 10896, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'THAWK.STR' size = 16035840, secsize = 7830, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'OCEAN.STR' size = 54558720, secsize = 26640, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'OPM20.STR' size = 17842176, secsize = 8712, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+Catalog written to "data.cat"
+   INFO: Done.

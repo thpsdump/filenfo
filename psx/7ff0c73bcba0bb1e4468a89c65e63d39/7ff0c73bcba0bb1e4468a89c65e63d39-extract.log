@@ -1,0 +1,64 @@
+++ WARN: image scan/psx/THPS3-Final-Review-Build.bin size (514572288) not multiple of blocksize (2352)
+Analyzing image "THPS3-Final-Review-Build.cue"...
+   INFO: Disc mode = 2
+   INFO: First track = 1
+   INFO: Track format = 2
+   INFO: Start LSN of session = 0
+   INFO: Filesystem type = 10013
+Volume ID = SLUS_01419
+System area data written to "data.sys"
+Dumping filesystem to directory "data"...
+   INFO: Dumping '' as ''
+   INFO: XA file 'INTRO.STR' size = 31477760, secsize = 15370, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'ACTIV.STR' size = 3276800, secsize = 1600, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'LOGO.STR' size = 6193152, secsize = 3024, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'SHABA.STR' size = 1703936, secsize = 832, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'COMPILED.XA' size = 264110080, secsize = 128960, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: Dumping 'X' as 'X'
+   INFO: XA file 'HAWK.STR' size = 15695872, secsize = 7664, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'BAILS02.STR' size = 14155776, secsize = 6912, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'BAM.STR' size = 15990784, secsize = 7808, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'CABALLER.STR' size = 15843328, secsize = 7736, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'CAMPBELL.STR' size = 15990784, secsize = 7808, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'GLIFBERG.STR' size = 15990784, secsize = 7808, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'BAILS01.STR' size = 13844480, secsize = 6760, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: Trying to access past end of disk lsn: 218781, end lsn: 218780
+Error reading sector 218781 of image file: driver I/O error
+Output file "data/X/BAILS01.STR" may be incomplete
+   INFO: XA file 'KOSTON.STR' size = 15695872, secsize = 7664, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: Trying to access past end of disk lsn: 222601, end lsn: 218780
+Error reading sector 222601 of image file: driver I/O error
+Output file "data/X/KOSTON.STR" may be incomplete
+   INFO: XA file 'LASEK.STR' size = 15990784, secsize = 7808, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: Trying to access past end of disk lsn: 230265, end lsn: 218780
+Error reading sector 230265 of image file: driver I/O error
+Output file "data/X/LASEK.STR" may be incomplete
+   INFO: XA file 'MULLEN.STR' size = 15695872, secsize = 7664, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: Trying to access past end of disk lsn: 238073, end lsn: 218780
+Error reading sector 238073 of image file: driver I/O error
+Output file "data/X/MULLEN.STR" may be incomplete
+   INFO: XA file 'MUSKA.STR' size = 15990784, secsize = 7808, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: Trying to access past end of disk lsn: 245737, end lsn: 218780
+Error reading sector 245737 of image file: driver I/O error
+Output file "data/X/MUSKA.STR" may be incomplete
+   INFO: XA file 'REYNOLDS.STR' size = 15695872, secsize = 7664, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: Trying to access past end of disk lsn: 253545, end lsn: 218780
+Error reading sector 253545 of image file: driver I/O error
+Output file "data/X/REYNOLDS.STR" may be incomplete
+   INFO: XA file 'ROWLEY.STR' size = 15695872, secsize = 7664, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: Trying to access past end of disk lsn: 261209, end lsn: 218780
+Error reading sector 261209 of image file: driver I/O error
+Output file "data/X/ROWLEY.STR" may be incomplete
+   INFO: XA file 'STEAMER.STR' size = 15843328, secsize = 7736, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: Trying to access past end of disk lsn: 268873, end lsn: 218780
+Error reading sector 268873 of image file: driver I/O error
+Output file "data/X/STEAMER.STR" may be incomplete
+   INFO: XA file 'THOMAS.STR' size = 15695872, secsize = 7664, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: Trying to access past end of disk lsn: 276609, end lsn: 218780
+Error reading sector 276609 of image file: driver I/O error
+Output file "data/X/THOMAS.STR" may be incomplete
+   INFO: Trying to access past end of disk lsn: 284273, end lsn: 218780
+Error reading sector 284273 of image file: driver I/O error
+Output file "data/THPS.WAV" may be incomplete
+Catalog written to "data.cat"
+   INFO: Done.

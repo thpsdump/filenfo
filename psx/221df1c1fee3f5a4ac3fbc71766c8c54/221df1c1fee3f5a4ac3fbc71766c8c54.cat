@@ -1,0 +1,53 @@
+system_area {
+  file "data.sys"
+}
+
+volume {
+  system_id [PLAYSTATION]
+  volume_id [TEMPLATE]
+  volume_set_id [VOLUME1]
+  publisher_id [SONY]
+  preparer_id [EXAMPLE]
+  application_id [SONY]
+  copyright_file_id []
+  abstract_file_id []
+  bibliographic_file_id []
+  creation_date 2002-10-30 15:44:27.18 0
+  modification_date 2002-10-30 15:44:27.18 0
+  expiration_date 0000-00-00 00:00:00.00 0
+  effective_date 0000-00-00 00:00:00.00 0
+}
+
+dir {
+  file ACTIV.STR
+  file CD.HED
+  file CD.WAD
+  file COMPILED.XA
+  file DD.WAD
+  file INTRO.STR
+  file LOGO.STR
+  file PSX.EXE
+  file SLUS_014.00
+  file SLUS_014.85
+  file THPS4.JSP
+  file VVLOGO.STR
+  dir X {
+    file BAILS01.STR
+    file BAILS02.STR
+    file BAM.STR
+    file BOB.STR
+    file CABALLER.STR
+    file CAMPBELL.STR
+    file GLIFBERG.STR
+    file HAWK.STR
+    file KONA.STR
+    file KOSTON.STR
+    file LASEK.STR
+    file MULLEN.STR
+    file MUSKA.STR
+    file REYNOLDS.STR
+    file ROWLEY.STR
+    file STEAMER.STR
+    file THOMAS.STR
+  }
+}

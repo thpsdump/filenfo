@@ -1,0 +1,67 @@
+system_area {
+  file "data.sys"
+}
+
+volume {
+  system_id [PLAYSTATION]
+  volume_id [SCUS_94442]
+  volume_set_id []
+  publisher_id [SCEA]
+  preparer_id [LIFELIKE]
+  application_id [PLAYSTATION]
+  copyright_file_id [SIE]
+  abstract_file_id []
+  bibliographic_file_id []
+  creation_date 1999-05-27 23:53:54.41 36
+  modification_date 0000-00-00 00:00:00.00 0
+  expiration_date 0000-00-00 00:00:00.00 0
+  effective_date 0000-00-00 00:00:00.00 0
+}
+
+dir {
+  file DOUGA.BIN
+  file FB_TEX.BIN
+  file GRAPH.BIN
+  file GRAPH1.BIN
+  file GRAPH2.BIN
+  file GRAPH3.BIN
+  file GRAPH4.BIN
+  file HECTLOGO.TIM
+  file MONDAI.BIN
+  file SOUND.BIN
+  file SYSTEM2.CNF
+  file TSUMU.EXE
+  xafile TSUMU.XA
+  file SYSTEM.CNF
+  file SCUS_944.42
+  file PSX.EXE
+  file MENU.EXE
+  file CONTENTS.DAT
+  file MENU.FF
+  dir WORMHOLE {
+    file WORMHOLE.EXE
+    file WORMHOLE.FF
+    xafile WH.STR
+    xafile NEXT.STR
+    file ENDCAP.STR
+  }
+  dir MOVIES {
+    xafile TRANS.STR
+    xafile MAGGIE.STR
+    xafile UG.STR
+    xafile PS2_0.STR
+    xafile PS2_1.STR
+    xafile PS2_2.STR
+    xafile PS2_3.STR
+    xafile PS2_4.STR
+    xafile PS2_5.STR
+    xafile PS2_6.STR
+    xafile PS2_7.STR
+    xafile MOH.STR
+    xafile JAMM.STR
+    xafile STAR.STR
+    xafile E3.STR
+    file ENDCAP.STR
+  }
+  file PAD.DAT
+}

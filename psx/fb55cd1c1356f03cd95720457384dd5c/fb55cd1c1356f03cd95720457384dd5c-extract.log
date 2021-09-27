@@ -1,0 +1,28 @@
+Analyzing image "Pizza Hut Disc One [SCUS-94480].cue"...
+   INFO: Disc mode = 3
+   INFO: First track = 1
+   INFO: Track format = 2
+   INFO: Start LSN of session = 0
+   INFO: Filesystem type = 10013
+Volume ID = SCUS_94480
+System area data written to "data.sys"
+Dumping filesystem to directory "data"...
+   INFO: Dumping '' as ''
+   INFO: Dumping 'MENU' as 'MENU'
+   INFO: Dumping 'KIDZ' as 'KIDZ'
+   INFO: XA file 'TALK.STR' size = 4816896, secsize = 2352, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'TITLE.STR' size = 8835072, secsize = 4314, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'KART' as 'KART'
+   INFO: Dumping 'KART/XA' as 'XA'
+   INFO: XA file 'S00.XA' size = 3276800, secsize = 1600, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'PROSKATE' as 'PROSKATE'
+   INFO: XA file 'GOLDFING.STR' size = 38404096, secsize = 18752, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'ATVILOGO.STR' size = 4325376, secsize = 2112, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'LOGO.STR' size = 3702784, secsize = 1808, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'CB4' as 'CB4'
+   INFO: Dumping 'MOVIES' as 'MOVIES'
+   INFO: XA file 'PIZZA.STR' size = 10223616, secsize = 4992, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'PIZZAD1.STR' size = 8749056, secsize = 4272, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'COOL.STR' size = 1638400, secsize = 800, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+Catalog written to "data.cat"
+   INFO: Done.

@@ -1,0 +1,608 @@
+system_area {
+  file "data.sys"
+}
+
+volume {
+  system_id [PLAYSTATION]
+  volume_id [SCUS_94447]
+  volume_set_id []
+  publisher_id [SCEA]
+  preparer_id [LIFELIKE]
+  application_id [PLAYSTATION]
+  copyright_file_id [SIE]
+  abstract_file_id []
+  bibliographic_file_id []
+  creation_date 1999-11-01 13:41:14.26 36
+  modification_date 0000-00-00 00:00:00.00 0
+  expiration_date 0000-00-00 00:00:00.00 0
+  effective_date 0000-00-00 00:00:00.00 0
+}
+
+dir {
+  file SYSTEM.CNF
+  file PSX.EXE
+  file SCUS_944.47
+  file MAIN.EXE
+  file CONTENTS.DAT
+  file MENU.FF
+  dir TOMBA2 {
+    file MAIN.EXE
+    file UNDER.CCS
+    dir BIN {
+      file A00.BIN
+      file DEMO.BIN
+      file GAME.BIN
+      file OPN.BIN
+      file SOP.BIN
+      file START.BIN
+    }
+    dir CD {
+      xafile LOGO.STR
+      file TOMBA2.DAT
+      file TOMBA2.IDX
+      file TOMBA2.IMG
+      file TOMBA2.SND
+      xafile UNDER.XA
+    }
+  }
+  dir DINO {
+    xafile STAGE01.XAS
+    xafile STAGE02.XAS
+    xafile STAGE04.XAS
+    file TRIAL.DAT
+    file TRIAL.EXE
+  }
+  file SCUS_944.73
+  file MOVIE.EXE
+  file FIELD.BIN
+  file BATLE.BIN
+  dir BIN {
+    file DISC.BIN
+    file LOGO.BIN
+    file MCHAR.DAT
+    file PGMDT.DAT
+    file TITLE.EXE
+    file WIN.BIN
+  }
+  dir FIELD {
+    file 2000.MDP
+    file 2001.MDP
+    file 2002.MDP
+    file 2003.MDP
+    file 2004.MDP
+    file 2008.MDP
+    file 200C.MDP
+    file 2010.MDP
+    file 2012.MDP
+    file 2014.MDP
+    file 2018.MDP
+    file 201C.MDP
+    file 2020.MDP
+    file 2024.MDP
+    file 2028.MDP
+    file 202C.MDP
+    file 2030.MDP
+    file 2034.MDP
+    file 2038.MDP
+    file 203A.MDP
+    file 203C.MDP
+    file 203E.MDP
+    file 2040.MDP
+    file 2044.MDP
+    file 2048.MDP
+    file 204C.MDP
+    file 2C00.MDP
+    file 2C01.MDP
+    file 2C02.MDP
+    file 2C04.MDP
+    file 2C05.MDP
+    file 5C00.MDP
+    file 5C04.MDP
+    file 5C05.MDP
+    file BA38.MDP
+    file ENC.VAB
+    file FC01.DAT
+    file FC02.DAT
+    file FC03.DAT
+    file FC04.DAT
+    file FC05.DAT
+    file FC06.DAT
+    file FC07.DAT
+    file FC08.DAT
+    file FC09.DAT
+    file FC10.DAT
+    file FC11.DAT
+    file FC12.DAT
+    file FC13.DAT
+    file FC14.DAT
+    file FC15.DAT
+    file FC16.DAT
+    file FC17.DAT
+    file FC18.DAT
+    file FC19.DAT
+    file FC20.DAT
+    file FC21.DAT
+    file FC22.DAT
+    file FC23.DAT
+    file FC24.DAT
+    file FC25.DAT
+    file FC26.DAT
+    file FC27.DAT
+    file FC28.DAT
+    file FC30.DAT
+    file FC31.DAT
+    file FC32.DAT
+    file FC33.DAT
+    file FC34.DAT
+    file FC35.DAT
+    file FWIN.BIN
+    file F_SE.BIN
+    file GM0.IDX
+    file GM0.STZ
+    file ITEM.BIN
+    file PGR00.CPD
+    file PGR01.CPD
+    file PGR02.CPD
+    file S20__.VAB
+    file S2C__.VAB
+    file S5C__.VAB
+    file SBA__.VAB
+    file SHOP.BIN
+    file WINDT.BIN
+  }
+  dir BATLE {
+    file B023.BBG
+    file ENDW.DAT
+    file MGDAT.BIN
+    file M_DAT.BIN
+    file P1A_H.BIN
+    file P1A_Q.BIN
+    file P1DEF.BIN
+    file P1ITM.BIN
+    file P1MG0.BIN
+    file P1MG1.BIN
+    file P1MG2.BIN
+    file P1WIN.BIN
+    file P2A_H.BIN
+    file P2A_Q.BIN
+    file P2DEF.BIN
+    file P2ITM.BIN
+    file P2MG0.BIN
+    file P2MG1.BIN
+    file P2MG2.BIN
+    file P2MG3.BIN
+    file P2WIN.BIN
+    file P3A_H.BIN
+    file P3A_Q.BIN
+    file P3DEF.BIN
+    file P3ITM.BIN
+    file P3MG0.BIN
+    file P3MG1.BIN
+    file P3MG2.BIN
+    file P3WIN.BIN
+    file P_DAT.BIN
+    file STAT.BIN
+    file STDAT.BIN
+    file SYS.IDX
+  }
+  xafile MOV02.STR
+  xafile MOV04.STR
+  xafile MOV05.STR
+  xafile MOV20.STR
+  dir TARZAN {
+    file AA.
+    file AB.
+    file AC.
+    file AD.
+    file AE.
+    file AF.
+    file AG.
+    file AH.
+    file AI.
+    file AJ.
+    file AK.
+    file AL.
+    file AM.
+    file AN.
+    file AO.
+    file AP.
+    file AQ.
+    file AR.
+    file AS.
+    file AT.
+    file AU.
+    file AV.
+    file AW.
+    file AX.
+    file AY.
+    file AZ.
+    file BA.
+    file BB.
+    file BC.
+    file BD.
+    file BE.
+    file BF.
+    file BG.
+    file BH.
+    file BI.
+    file BJ.
+    file BK.
+    file BL.
+    file BM.
+    file BN.
+    file BO.
+    file BP.
+    file BQ.
+    file BR.
+    file BS.
+    file BT.
+    file BU.
+    file BV.
+    file BW.
+    file BX.
+    file BY.
+    file BZ.
+    file CA.
+    file CB.
+    file CC.
+    file CD.
+    file CE.
+    file CF.
+    file CG.
+    file CH.
+    file CI.
+    file CJ.
+    file CK.
+    file CL.
+    file CM.
+    file CN.
+    file CO.
+    file CP.
+    file CQ.
+    file CR.
+    file CS.
+    file CT.
+    file CU.
+    file CV.
+    file CW.
+    file CX.
+    file CY.
+    file CZ.
+    file DA.
+    file DB.
+    file DC.
+    file DD.
+    file DE.
+    file DF.
+    file DG.
+    file DH.
+    file DI.
+    xafile DJ.
+    xafile DK.
+  }
+  dir GBREAKER {
+    file BIGLOGOL.BIN
+    file BIGLOGOR.BIN
+    file BOWLLOGO.BIN
+    file CELANIM.FIL
+    file CHEERS.BIN
+    file CONF.BIN
+    file CONFBGL.BIN
+    file CONFBGR.BIN
+    file FE.BIT
+    file FE.EXE
+    file GBANIM.BIN
+    file GBREAKER.EXE
+    file LOADBG.BIN
+    file LOADSCRN.TIM
+    file LOGO.BIN
+    file MAIN.EXE
+    file MIDI.VB
+    file MIDI.VH
+    file PBOOKBAL.BIN
+    file PBOOKPAS.BIN
+    file PBOOKRUN.BIN
+    file PLAYERS.BIN
+    file SCREENS.FIL
+    file STDM.BIN
+    dir AUDIO {
+      dir VAG4 {
+        file CADENCE.VAG
+        file NOTRDAM.VAG
+      }
+    }
+    dir AW0 {
+      file FLAS.FIL
+    }
+    dir BUILD {
+      file BALL.MOD
+      file BIGBALL.MOD
+      file BIGGUY.MOD
+      file COACH.TIM
+      file FOOTBALL.AD4
+      file FOOTBALL.MOD
+      file REF.MOD
+      file REF.TIM
+      file SMALL.MOD
+    }
+    dir COIN {
+      file H2.FIL
+      file T2.FIL
+    }
+    dir DAT {
+      file DEFBRUSH.BIT
+      file DEFBRUSH.DAT
+      file EDITMENU.BIN
+      file EDITMENU.BIT
+      file FLAG0.FIL
+      file FLAG0_00.FIL
+      file FLAG1.FIL
+      file FLAG2.FIL
+      file FLAG3.FIL
+      file FLAG4.FIL
+      file FLAG5.FIL
+      file FLAG6.FIL
+      file FLAG7.FIL
+      file FLGZ0001.RLE
+      file FONTS.FIL
+      file HEADS.FIL
+      file MENU.BIN
+      file MENU.BIT
+      file MERGEDAT.FIL
+      file MIFONT.BIT
+      file MIFONT.DAT
+      file OFFBRUSH.BIT
+      file OFFBRUSH.DAT
+      file PADS.BIT
+      file PADS.CLT
+      file PADS.DAT
+      file QFONT.BIT
+      file QFONT.DAT
+      file SIFONT.BIT
+      file SIFONT.DAT
+      file TAILS.FIL
+    }
+    dir FE {
+      file DEMOTEXT.TIM
+      file LEGALSCN.TIM
+      file LOGOS.TIM
+      xafile MY989.STR
+      file REDZONE.TIM
+      file SONY.TIM
+    }
+    dir HM2 {
+      file UTEN.FIL
+    }
+    dir S {
+      dir FD2A {
+        file UTEN.FIL
+      }
+      dir FD2C {
+        file UTEN.FIL
+      }
+      dir FD2N {
+        file UTEN.FIL
+      }
+      dir FD2R {
+        file UTEN.FIL
+      }
+    }
+    dir SEQ {
+      file ALABAMA.SEQ
+      file ARIZ_ST.SEQ
+      file ARKANSAS.SEQ
+      file FLORIDA.SEQ
+      file ILLINOIS.SEQ
+      file INDIANA.SEQ
+      file IOWA.SEQ
+      file KANSAS.SEQ
+      file KANS_ST.SEQ
+      file MICHIGAN.SEQ
+      file MICH_ST.SEQ
+      file MINN.SEQ
+      file NEBRASKA.SEQ
+      file NOTREDAM.SEQ
+      file OHIO_ST.SEQ
+      file OREGON.SEQ
+      file PURDUE.SEQ
+      file STANFORD.SEQ
+      file SYRACUSE.SEQ
+      file TEXASAM.SEQ
+      file UCLA.SEQ
+      file UTEXAS.SEQ
+      file WASHINGT.SEQ
+      file W_MICH.SEQ
+    }
+    dir VABS {
+      file DRUMS.FIL
+      file GB99BETA.FIL
+      file YELL1.VB
+      file YELL2.VB
+      file YELL3.VB
+      file YELL4.VB
+      file YELL5.VB
+      file YELL6.VB
+      file YELL7.VB
+      file YELL8.VB
+      file YELL9.VB
+    }
+    dir VARS {
+      file GAMEVARS.RN0
+      file GAMEVARS.RN1
+      file GAMEVARS.RN2
+      file GAMEVARS.RN3
+      file GAMEVARS.SN0
+      file GAMEVARS.SN1
+      file GAMEVARS.SN2
+      file GAMEVARS.SN3
+      file GAMEVARS.ST0
+      file GAMEVARS.ST1
+      file GAMEVARS.ST2
+      file GAMEVARS.ST3
+      file GAMEVARS.WN0
+      file GAMEVARS.WN1
+      file GAMEVARS.WN2
+      file GAMEVARS.WN3
+    }
+  }
+  dir FO2000 {
+    file SAMPLER.EXE
+    file SOLWORKS.TEX
+    file OV2.OVL
+    xafile 989SPORT.STR
+    file LEGAL.TEX
+    file DEMOSTAT.TEX
+    file OV0.OVL
+    dir FRONTEND {
+      file FE1.KSV
+      file FE2.KSV
+      file FE3.KSV
+      file MAINMENU.FEF
+      file MAINMENU.FET
+      file MAINMENU.FEX
+      file INGAME.FEF
+      file INGAME.FET
+      file INGAME.FEX
+      file PMUGS.DAT
+      file SCRNSHOT.CAT
+    }
+    dir LOADING {
+      file LOADING.TEX
+      file LOADBAR.TEX
+    }
+    file VABS.CAT
+    file OV3.OVL
+    file PNLLOGOS.CAT
+    file TEMP.KGB
+    file JERSEY.KGB
+    file PERM.KGB
+    file Z.CAT
+    dir CAM {
+      file CAMG.CAT
+      file CAMI.CAT
+      file CAMH.CAT
+      file CAMA.CAT
+    }
+    file GENG.CAT
+    file PFACES.DAT
+    dir SOUND {
+      file ANTHEMS.CAT
+      file SONGS.CAT
+      file RIP.V2K
+      file GOALIE.KGB
+      file CHANTS.CAT
+      file PP.SDF
+      file PA.SDF
+    }
+    file JUMBO.CAT
+  }
+  file WCW.EXE
+  dir WCWDEMO {
+    file MAIN.EXE
+    file DATA.BIG
+    file FE_MISC.BIG
+    file FILESYS.BIG
+    file FLUFF.OVR
+    file FONTS.BIG
+    file GAME.OVR
+    file HUD.BIG
+    file LOADSCRN.BIG
+    file MOTEX.BIG
+    file ZSOUND.BIG
+    file ZZMUSIC.BIG
+    file ZZSPEECH.BIG
+  }
+  dir CB4 {
+    file CB4.EXE
+    file SAMPLE.DAT
+  }
+  dir DANDY {
+    file ADV.BIN
+    file ADV.PAC
+    file ADV.STM
+    file EFFECTS.PAC
+    file GAME.BIN
+    file GAME.XM
+    file MUSIC.XAP
+    file PYCO.EXE
+    file P_EFFECT.BIN
+    file P_EFFECT.MTM
+    file SINKOU.BIN
+    file SINKOU.PAC
+    file SINKOU.S3M
+    file SONIC.AOE
+    file VOICE.XAP
+  }
+  dir SKATE {
+    dir ASSETS {
+      file GEOMETRY.ZAL
+      file LA_COURT.ZAL
+      file MATERIAL.ZAL
+      file MISCDATA.ZAL
+      file MOTION.ZAL
+      file OPTIONS.TXT
+      file RBINTART.ZAL
+      file REPLAY.ZAL
+      file SYSTEM.ZAL
+      file TABLES.ZAL
+    }
+    dir AUDIO {
+      file MUSICDEM.ZSD
+      file SFXCHR00.ZSD
+      file SFXCHR01.ZSD
+      file SFXCHR02.ZSD
+      file SFXCHR03.ZSD
+      file SFXCHR04.ZSD
+      file SFXCHR05.ZSD
+      file SFXCOM.ZSD
+      file SFXGAME.ZSD
+      file SFXLEV06.ZSD
+      file SFXMENU.ZSD
+      file SPEECHDM.ZSD
+    }
+    file AISDATA.BIN
+    file AITEXT.BIN
+    file FRSDATA.BIN
+    file FRTEXT.BIN
+    file SKATE.EXE
+  }
+  dir AMAA {
+    file SLUS_009.13
+    file CORE.CMP
+    file SYSTEM.CMP
+    file SHELL.BIN
+    file SHELL.REL
+    dir PAK {
+      file LEVELS.LST
+      file BACK3.PAK
+      file SHELL.PAK
+    }
+    dir XA {
+      xafile XA00.XA
+    }
+    dir DATA {
+      xafile MOV3DO.STR
+      xafile DEMO00.STR
+    }
+  }
+  dir TR4 {
+    dir DATA {
+      file CODE.WAD
+      file LEVEL1.PSX
+      file TITLE.PSX
+    }
+    file ENGLISH.DAT
+    file TOMB.EXE
+    file SCRIPT.DAT
+    file XA1.XA
+  }
+  dir MOVIES {
+    xafile VAULT.STR
+    xafile 989STUDI.STR
+    xafile HSG.STR
+    xafile NBA2K.STR
+    xafile TM4.STR
+    file ENDCAP.STR
+  }
+  file DUMMY.FIL
+}
