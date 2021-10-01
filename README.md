@@ -36,6 +36,9 @@ a list of tools feeding this project
 
 
 reference for tools to review for other systems
+| system | tool | link |
+| - |-|-|
 | dc  | gditools     | https://sourceforge.net/projects/dcisotools |
 | gc  | gciso        | https://github.com/pfirsich/gciso |
 | wii | wit          | https://wit.wiimm.de/wit/ |
+| psx | dumpid.py    | https://gist.github.com/i30817/96674a3de8d9e4cb890e92cec3f36990 |
