@@ -1,0 +1,496 @@
+system_area {
+  file "data.sys"
+}
+
+volume {
+  system_id [PLAYSTATION]
+  volume_id [SCUS_94428]
+  volume_set_id []
+  publisher_id [SCEA]
+  preparer_id [LIFELIKE]
+  application_id [PLAYSTATION]
+  copyright_file_id [SIE]
+  abstract_file_id []
+  bibliographic_file_id []
+  creation_date 1999-04-06 17:31:15.50 36
+  modification_date 0000-00-00 00:00:00.00 0
+  expiration_date 0000-00-00 00:00:00.00 0
+  effective_date 0000-00-00 00:00:00.00 0
+}
+
+dir {
+  file SYSTEM.CNF
+  file SCUS_944.28
+  file PSX.EXE
+  file MENU.EXE
+  file CONTENTS.DAT
+  file TECH.EXE
+  file MENU.FF
+  file TECH.FF
+  dir MOVIES {
+    xafile UG.STR
+    xafile MENUINTR.STR
+    xafile BEHIND.STR
+    xafile DOWNLOAD.STR
+    xafile TRANS.STR
+    xafile POCKET.STR
+    xafile IMPORTS.STR
+    xafile WCW.STR
+    xafile 3XTREME.STR
+    xafile COOL1.STR
+    xafile COOL3.STR
+    xafile COOL5.STR
+    xafile COOL8.STR
+    xafile COOL9.STR
+    file ENDCAP.STR
+  }
+  dir KIDZ {
+    file KIDZ.EXE
+    file KKIIDDZZ.HED
+    file KKIIDDZZ.DAT
+    file KKIIDDZZ.BNS
+    file TITLE.ALL
+    xafile TALK.STR
+    xafile TITLE.STR
+  }
+  dir ASC {
+    file ASC.DAT
+  }
+  file BR2.EXE
+  dir EFT {
+    file EFT.DAT
+  }
+  dir SND {
+    file CHASEL_1.SND
+    file CHASEL_2.SND
+    file COMMON_1.SND
+    file COMMON_2.SND
+    file ENDING.SND
+    file TITLE.SND
+  }
+  dir ST5 {
+    file ST5.DAT
+    file STAGE_5.SND
+  }
+  dir LON {
+    file CHARA_02.SND
+    file GOVER_02.SND
+    file LON.ACT
+    file LON1P.ANI
+    file LON1P.DAT
+    file LON2P.ANI
+    file LON2P.DAT
+    file LON3P.ANI
+    file LON3P.DAT
+    file LON4P.ANI
+    file LON4P.DAT
+    file LONEFT.DAT
+  }
+  dir STU {
+    file CHARA_08.SND
+    file GOVER_08.SND
+    file STU.ACT
+    file STU1P.ANI
+    file STU1P.DAT
+    file STU2P.ANI
+    file STU2P.DAT
+    file STU3P.ANI
+    file STU3P.DAT
+    file STU4P.ANI
+    file STU4P.DAT
+    file STUEFT.DAT
+  }
+  dir CMN {
+    file CMN.ACT
+    file HUD.DAT
+    file INIT.DAT
+    file P00.DAT
+    file P01.DAT
+    file SE00.DAT
+    file SEL00.DAT
+    file SEL01.DAT
+    file USATITLE.DAT
+    dir VS {
+      file SB02.DAT
+      file SB08.DAT
+      file SB0B.DAT
+      file VS.DAT
+    }
+  }
+  dir XA {
+    xafile BR2USAT.XA
+  }
+  dir TETRIS {
+    file PSX.BSE
+    file TETRIS.EXE
+  }
+  dir MLB2000 {
+    file MLB2000.EXE
+    file DATA.WAD
+  }
+  dir ELMOABC {
+    dir ABC {
+      file GARDEN.WDL
+      file GENABC.WDL
+      file ORCHARD.WDL
+      file SBGARDEN.WDL
+      file SBORCH.WDL
+    }
+    dir AXA {
+      xafile X000002X.XA
+      xafile X000002Y.XA
+      xafile X000003X.XA
+      xafile X000003Y.XA
+      file X0001025.WDL
+      file X0002025.WDL
+      xafile X600001X.XA
+      xafile X600001Y.XA
+      file X6200000.WDL
+      file X6200015.WDL
+      file X620001A.WDL
+      file X620001F.WDL
+      xafile X620001X.XA
+      xafile X620001Y.XA
+      file X6200024.WDL
+      xafile X620002X.XA
+      xafile X620002Y.XA
+      xafile X620003X.XA
+      xafile X620003Y.XA
+      file X6800000.WDL
+      file X6800010.WDL
+      file X680001A.WDL
+      xafile X680001X.XA
+      xafile X680001Y.XA
+      file X6800024.WDL
+      xafile X680002X.XA
+      xafile X680002Y.XA
+      xafile X680003X.XA
+      xafile X680003Y.XA
+    }
+    dir MOVIES {
+      xafile ABCTITLE.STR
+      file LEGAL.STR
+    }
+    file ELMOABC.EXE
+  }
+  dir XENA {
+    file XENA.EXE
+    dir DATA {
+      dir LEVELS {
+        file 06.DMO
+        file BLUR.STM
+        file BLUR.TMD
+        file CHAKRAM.STM
+        file CHAKRAM.TMD
+        file CONTINUE.STM
+        file CONTINUE.TMD
+        file DUST.STM
+        file FIRE.STM
+        file HEALTH1.STM
+        file HEALTH2.STM
+        file HEALTH3.STM
+        file HITRED.STM
+        file HITYLW.STM
+        file P_FROST.STM
+        file P_FROST2.STM
+        file P_FROST2.TMD
+        file P_LOTUS.STM
+        file P_LOTUS.TMD
+        file P_MSKIN.STM
+        file P_PBLADE.STM
+        file P_PBLADE.TMD
+        file P_STONE.STM
+        file P_STORM.STM
+        file P_SUPRC.STM
+        file SCROLL.STM
+        file SHADOW.STM
+        file SHADOW.TMD
+        file SMOKE3.STM
+        file UP_ARMOR.STM
+        file UP_SWORD.STM
+        file XENA.STM
+        file XENA.TMD
+        dir 06 {
+          file ARCHER.STM
+          file ARCHER.TMD
+          file ARROW3.STM
+          file ARROW3.TMD
+          file BOULDER1.STM
+          file BOULDER1.TMD
+          file BOULDER2.STM
+          file BOULDER2.TMD
+          file BOULDER3.STM
+          file BOULDER3.TMD
+          file C1.STM
+          file C1.TMD
+          file CLINK.STM
+          file CLINK.TMD
+          file DBCHAIN.STM
+          file DBCHAIN.TMD
+          file DBRIDGE.STM
+          file DBRIDGE.TMD
+          file DFIRE4.STM
+          file ENVIRO.BIN
+          file FIRE2.STM
+          file FIREBALL.STM
+          file FIREBALL.TMD
+          file FLAG.STM
+          file FLAG.TMD
+          file FLEVEL.TMD
+          file HORIZ.STM
+          file LEAF.STM
+          file LEAF.TMD
+          file LEVEL.BIN
+          file LEVEL.CLS
+          file LEVEL.LGT
+          file LEVEL.MIP
+          file LEVEL.STM
+          file LEVEL.TMD
+          file PLRS.DAT
+          file RAIN1.STM
+          file RAIN2.STM
+          file RAIN2.TMD
+          file SOLDER1.STM
+          file SOLDER1.TMD
+          file SOLDER2.STM
+          file SOLDER2.TMD
+          file SOLDER3.STM
+          file SOLDER3.TMD
+          file SOLDER4.STM
+          file SOLDER4.TMD
+          file SOLDER5.STM
+          file SOLDER5.TMD
+          file TENT.STM
+          file TENT.TMD
+          file TENTLIT.STM
+          file TENTLIT.TMD
+        }
+      }
+      dir LEVSCR {
+        file LOAD06.TIM
+      }
+      dir MEDIA {
+        xafile 989STUDI.STR
+        xafile UNILOGO.STR
+        xafile XA1.XA
+      }
+      dir PLRS {
+        dir ARCHER {
+          file ANIM.SMA
+          file ARCHER.SMI
+        }
+        dir ARROW3 {
+          file ARROW3.SMI
+        }
+        dir BANDIT {
+          file ANIM.SMA
+          file BANDIT.SMI
+        }
+        dir BLUR {
+          file BLUR.SMI
+        }
+        dir BOULDER1 {
+          file BOULDER1.SMI
+        }
+        dir BOULDER2 {
+          file BOULDER2.SMI
+        }
+        dir BOULDER3 {
+          file BOULDER3.SMI
+        }
+        dir C1 {
+          file C1.SMI
+        }
+        dir CHAKRAM {
+          file CHAKRAM.SMI
+        }
+        dir CLINK {
+          file CLINK.SMI
+        }
+        dir CONTINUE {
+          file CONTINUE.SMI
+        }
+        dir DBCHAIN {
+          file DBCHAIN.SMI
+        }
+        dir DBRIDGE {
+          file DBRIDGE.SMI
+        }
+        dir DUST {
+          file DUST.STM
+        }
+        dir FIREBALL {
+          file FIREBALL.SMI
+        }
+        dir FLAG {
+          file ANIM.SMA
+          file FLAG.SMI
+        }
+        dir LARK {
+          file ANIM.SMA
+          file LARK.SMI
+        }
+        dir LEAF {
+          file LEAF.SMI
+        }
+        dir P_FROST2 {
+          file P_FROST2.SMI
+        }
+        dir RAIN2 {
+          file RAIN2.SMI
+        }
+        dir SHADBIRD {
+          file SHADBIRD.SMI
+        }
+        dir SHADOW {
+          file SHADOW.SMI
+        }
+        dir SHADOW2 {
+          file SHADOW2.SMI
+        }
+        dir TENT {
+          file TENT.CLS
+          file TENT.SMI
+        }
+        dir TENTLIT {
+          file TENTLIT.CLS
+          file TENTLIT.SMI
+        }
+        dir XENA {
+          file ANIM.SMA
+          file XENA.SMI
+        }
+      }
+      dir SCREENS {
+        file 1ICBRSK.TIM
+        file 1ICDETH.TIM
+        file 1ICFIRE.TIM
+        file 1ICLTNG.TIM
+        file 1ICLYRE.TIM
+        file 1ICROCK.TIM
+        file 1ICSNOW.TIM
+        file 1XENACHK.TIM
+        file BLOOD.TIM
+        file CHACKRUM.TIM
+        file DAGGER.TIM
+        file DAGGERED.TIM
+        file DD_AVAIL.TIM
+        file DD_CNTRL.TIM
+        file DD_MKTG.TIM
+        file DD_TITLE.TIM
+        file HILT.TIM
+        file LOGO1.TIM
+        file MAN_ICON.TIM
+        file START.TIM
+        file SWORD.TIM
+        file TITLE.TIM
+        file XENAFONT.TIM
+      }
+      dir SND {
+        file CORE.VB
+        file CORE.VH
+        file M_VALAR.SEP
+        file M_VALAR.VB
+        file M_VALAR.VH
+        file M_VILL.SEP
+        file M_VILL.VB
+        file M_VILL.VH
+        file NPCM.VB
+        file NPCM.VH
+        file VALARIAN.VB
+        file VALARIAN.VH
+      }
+    }
+  }
+  dir R4DEMO {
+    file R4DEMO.EXE
+    file R4.BIN
+    xafile R4.STR
+  }
+  dir PROSKATE {
+    file PROSKATE.EXE
+    file CD.HED
+    file CD.WAD
+    xafile 411.STR
+  }
+  dir X3 {
+    file ANIM.ANM
+    file SBUT.SND
+    file TITLE.TIM
+    xafile 989STUDI.STR
+    file ERV3HI01.TER
+    file ERV3HI02.TER
+    file ERV3HI03.TER
+    file ERV3HI04.TER
+    file ERV3HI05.TER
+    file ERV3HI06.TER
+    file ERV3HI07.TER
+    file ERV3HI08.TER
+    file ERV3HI09.TER
+    file ERV3HI10.TER
+    file ERV3HI11.TER
+    file ERV3HI12.TER
+    file ERV3HI13.TER
+    file ERV3HI14.TER
+    file ERV3HI15.TER
+    file ERV3HI16.TER
+    file SCRBKD.TER
+    file TRACKS.IMG
+    file GAME.EXE
+    file PLAYER1.GUY
+    file P24BIT.GUY
+    file P84BIT.GUY
+    file P74BIT.GUY
+    file P94BIT.GUY
+    file P114BIT.GUY
+  }
+  dir GYAMON {
+    file GYAMON.EXE
+    file GYAMON.CCS
+    file GYAMON.SYM
+    dir BATTLE {
+      file BALL.DAT
+      file CARD.DAT
+      file LOADING.TIM
+      file MONBOOK.TIM
+      file MO_TMO.ACB
+      file MO_TOD.ACB
+      file OTHELLO.DAT
+      file SPINNER.TIM
+      file STAFF.TIM
+      file STAGE.ACB
+      file TEX1.DAT
+      file TEX2.DAT
+    }
+    dir BIN {
+      file BATTLE.BIN
+      file CASINO.BIN
+      file ENDING.BIN
+      file FIELD.BIN
+      file OPENDEMO.BIN
+      file SMELOGO.BIN
+      file TITLE.BIN
+      file VSMODE.BIN
+    }
+    dir FIELD {
+      file FDEVENT.ACB
+      file FIELD.ACB
+      file MODEL.ACB
+      file MUSIC.ACB
+      file PUSUKE.DAT
+      file SMELOGO.DAT
+      file SOUND.ACB
+      file SPINNER.DAT
+      file SPINNERS.DAT
+      file TAIKEN.DAT
+      file TITLE.DAT
+    }
+    dir STR {
+      xafile ADDEMO.STR
+      file ENDING.STR
+      file EVENT.STR
+      file SGXA.XA
+    }
+  }
+  file PAD.DAT
+}

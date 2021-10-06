@@ -1,0 +1,38 @@
+Analyzing image "Tony Hawk's Skateboarding (E) [SLES-02055].cue"...
+   INFO: Disc mode = 2
+   INFO: First track = 1
+   INFO: Track format = 2
+   INFO: Start LSN of session = 0
+   INFO: Filesystem type = 10013
+Volume ID = 
+System area data written to "data.sys"
+Dumping filesystem to directory "data"...
+   INFO: Dumping '' as ''
+   INFO: XA file 'INTROPAL.STR' size = 20381696, secsize = 9952, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'AQUASKY.STR' size = 38567936, secsize = 18832, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'GRAND.STR' size = 38502400, secsize = 18800, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'AIM.STR' size = 38567936, secsize = 18832, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'ST.STR' size = 38436864, secsize = 18768, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'AARON.STR' size = 12779520, secsize = 6240, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'ATVILOGO.STR' size = 4325376, secsize = 2112, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'BAILS.STR' size = 16318464, secsize = 7968, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'BURNQUIS.STR' size = 9633792, secsize = 4704, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'CAMPBELL.STR' size = 10223616, secsize = 4992, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'DK.STR' size = 38469632, secsize = 18784, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'ERNIES.STR' size = 38469632, secsize = 18784, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'GLIFBERG.STR' size = 9895936, secsize = 4832, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'GOLDFING.STR' size = 38404096, secsize = 18752, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'HAWK.STR' size = 9633792, secsize = 4704, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'LASEK.STR' size = 10092544, secsize = 4928, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'LOGO.STR' size = 3702784, secsize = 1808, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'MUSKA.STR' size = 9371648, secsize = 4576, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'REYNOLDS.STR' size = 9568256, secsize = 4672, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'ROWLEY.STR' size = 9437184, secsize = 4608, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file '411.STR' size = 9371648, secsize = 4576, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'STEAMER.STR' size = 9043968, secsize = 4416, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'SUICIDE.STR' size = 37591040, secsize = 18355, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'THOMAS.STR' size = 9895936, secsize = 4832, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'UNSANE.STR' size = 38404096, secsize = 18752, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'PRIMUS.STR' size = 38502400, secsize = 18800, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+Catalog written to "data.cat"
+   INFO: Done.

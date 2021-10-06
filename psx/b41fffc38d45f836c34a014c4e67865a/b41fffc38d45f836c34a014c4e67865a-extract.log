@@ -1,0 +1,35 @@
+Analyzing image "Tony Hawk's Pro Skater 4 (G) [SLES-03955].cue"...
+   INFO: Disc mode = 2
+   INFO: First track = 1
+   INFO: Track format = 2
+   INFO: Start LSN of session = 0
+   INFO: Filesystem type = 10013
+Volume ID = SLES_03955
+System area data written to "data.sys"
+Dumping filesystem to directory "data"...
+   INFO: Dumping '' as ''
+   INFO: XA file 'ACTIV.STR' size = 3276800, secsize = 1600, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'LOGO.STR' size = 6176768, secsize = 3016, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'VVLOGO.STR' size = 3354624, secsize = 1638, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'INTRO.STR' size = 43761664, secsize = 21368, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'COMPILED.XA' size = 143605760, secsize = 70120, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: Dumping 'X' as 'X'
+   INFO: XA file 'BAILS01.STR' size = 18726912, secsize = 9144, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'BAILS02.STR' size = 19054592, secsize = 9304, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'BAM.STR' size = 15990784, secsize = 7808, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'BOB.STR' size = 14438400, secsize = 7050, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'CABALLER.STR' size = 14794752, secsize = 7224, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'CAMPBELL.STR' size = 15859712, secsize = 7744, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'GLIFBERG.STR' size = 14761984, secsize = 7208, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'HAWK.STR' size = 38682624, secsize = 18888, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'KONA.STR' size = 20725760, secsize = 10120, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'KOSTON.STR' size = 14237696, secsize = 6952, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'LASEK.STR' size = 15515648, secsize = 7576, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'MULLEN.STR' size = 42057728, secsize = 20536, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'MUSKA.STR' size = 14991360, secsize = 7320, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'REYNOLDS.STR' size = 16826368, secsize = 8216, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'ROWLEY.STR' size = 16613376, secsize = 8112, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'THOMAS.STR' size = 18890752, secsize = 9224, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+   INFO: XA file 'STEAMER.STR' size = 29081600, secsize = 14200, group_id = 0, user_id = 0, attributes = 3d55, filenum = 1
+Catalog written to "data.cat"
+   INFO: Done.

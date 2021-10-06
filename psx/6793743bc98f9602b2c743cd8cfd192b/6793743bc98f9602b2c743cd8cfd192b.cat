@@ -1,0 +1,52 @@
+system_area {
+  file "data.sys"
+}
+
+volume {
+  system_id [PLAYSTATION]
+  volume_id []
+  volume_set_id []
+  publisher_id []
+  preparer_id []
+  application_id [PLAYSTATION]
+  copyright_file_id []
+  abstract_file_id []
+  bibliographic_file_id []
+  creation_date 1999-08-21 11:10:59.00 36
+  modification_date 0000-00-00 00:00:00.00 0
+  expiration_date 0000-00-00 00:00:00.00 0
+  effective_date 0000-00-00 00:00:00.00 0
+}
+
+dir {
+  file SYSTEM.CNF
+  file SLES_020.55
+  file CD.HED
+  file CD.WAD
+  xafile INTROPAL.STR
+  xafile AQUASKY.STR
+  xafile GRAND.STR
+  xafile AIM.STR
+  xafile ST.STR
+  xafile AARON.STR
+  xafile ATVILOGO.STR
+  xafile BAILS.STR
+  xafile BURNQUIS.STR
+  xafile CAMPBELL.STR
+  xafile DK.STR
+  xafile ERNIES.STR
+  xafile GLIFBERG.STR
+  xafile GOLDFING.STR
+  xafile HAWK.STR
+  xafile LASEK.STR
+  xafile LOGO.STR
+  xafile MUSKA.STR
+  xafile REYNOLDS.STR
+  xafile ROWLEY.STR
+  xafile 411.STR
+  xafile STEAMER.STR
+  xafile SUICIDE.STR
+  xafile THOMAS.STR
+  xafile UNSANE.STR
+  xafile PRIMUS.STR
+}

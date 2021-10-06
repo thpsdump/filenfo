@@ -1,0 +1,115 @@
+Analyzing image "Jampack Summer 99.cue"...
+   INFO: Disc mode = 3
+   INFO: First track = 1
+   INFO: Track format = 2
+   INFO: Start LSN of session = 0
+   INFO: Filesystem type = 10013
+Volume ID = SCUS_94428
+System area data written to "data.sys"
+Dumping filesystem to directory "data"...
+   INFO: Dumping '' as ''
+   INFO: Dumping 'MOVIES' as 'MOVIES'
+   INFO: XA file 'UG.STR' size = 1851392, secsize = 904, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'MENUINTR.STR' size = 6832128, secsize = 3336, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'BEHIND.STR' size = 2932736, secsize = 1432, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'DOWNLOAD.STR' size = 4472832, secsize = 2184, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'TRANS.STR' size = 1572864, secsize = 768, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'POCKET.STR' size = 18153472, secsize = 8864, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'IMPORTS.STR' size = 3080192, secsize = 1504, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'WCW.STR' size = 104841216, secsize = 51192, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file '3XTREME.STR' size = 17797120, secsize = 8690, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'COOL1.STR' size = 37785600, secsize = 18450, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'COOL3.STR' size = 23052288, secsize = 11256, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'COOL5.STR' size = 17743872, secsize = 8664, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'COOL8.STR' size = 13320192, secsize = 6504, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'COOL9.STR' size = 27639808, secsize = 13496, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'KIDZ' as 'KIDZ'
+   INFO: XA file 'TALK.STR' size = 4816896, secsize = 2352, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'TITLE.STR' size = 8835072, secsize = 4314, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'ASC' as 'ASC'
+   INFO: Dumping 'EFT' as 'EFT'
+   INFO: Dumping 'SND' as 'SND'
+   INFO: Dumping 'ST5' as 'ST5'
+   INFO: Dumping 'LON' as 'LON'
+   INFO: Dumping 'STU' as 'STU'
+   INFO: Dumping 'CMN' as 'CMN'
+   INFO: Dumping 'CMN/VS' as 'VS'
+   INFO: Dumping 'XA' as 'XA'
+   INFO: XA file 'BR2USAT.XA' size = 31703040, secsize = 15480, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'TETRIS' as 'TETRIS'
+   INFO: Dumping 'MLB2000' as 'MLB2000'
+   INFO: Dumping 'ELMOABC' as 'ELMOABC'
+   INFO: Dumping 'ELMOABC/ABC' as 'ABC'
+   INFO: Dumping 'ELMOABC/AXA' as 'AXA'
+   INFO: XA file 'X000002X.XA' size = 2064384, secsize = 1008, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'X000002Y.XA' size = 622592, secsize = 304, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'X000003X.XA' size = 1081344, secsize = 528, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'X000003Y.XA' size = 622592, secsize = 304, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'X600001X.XA' size = 1867776, secsize = 912, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'X600001Y.XA' size = 622592, secsize = 304, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'X620001X.XA' size = 4194304, secsize = 2048, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'X620001Y.XA' size = 622592, secsize = 304, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'X620002X.XA' size = 4030464, secsize = 1968, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'X620002Y.XA' size = 622592, secsize = 304, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'X620003X.XA' size = 1507328, secsize = 736, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'X620003Y.XA' size = 622592, secsize = 304, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'X680001X.XA' size = 4259840, secsize = 2080, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'X680001Y.XA' size = 622592, secsize = 304, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'X680002X.XA' size = 3571712, secsize = 1744, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'X680002Y.XA' size = 622592, secsize = 304, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'X680003X.XA' size = 2850816, secsize = 1392, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'X680003Y.XA' size = 622592, secsize = 304, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'ELMOABC/MOVIES' as 'MOVIES'
+   INFO: XA file 'ABCTITLE.STR' size = 7946240, secsize = 3880, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'XENA' as 'XENA'
+   INFO: Dumping 'XENA/DATA' as 'DATA'
+   INFO: Dumping 'XENA/DATA/LEVELS' as 'LEVELS'
+   INFO: Dumping 'XENA/DATA/LEVELS/06' as '06'
+   INFO: Dumping 'XENA/DATA/LEVSCR' as 'LEVSCR'
+   INFO: Dumping 'XENA/DATA/MEDIA' as 'MEDIA'
+   INFO: XA file '989STUDI.STR' size = 1638400, secsize = 800, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'UNILOGO.STR' size = 4374528, secsize = 2136, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: XA file 'XA1.XA' size = 19922944, secsize = 9728, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'XENA/DATA/PLRS' as 'PLRS'
+   INFO: Dumping 'XENA/DATA/PLRS/ARCHER' as 'ARCHER'
+   INFO: Dumping 'XENA/DATA/PLRS/ARROW3' as 'ARROW3'
+   INFO: Dumping 'XENA/DATA/PLRS/BANDIT' as 'BANDIT'
+   INFO: Dumping 'XENA/DATA/PLRS/BLUR' as 'BLUR'
+   INFO: Dumping 'XENA/DATA/PLRS/BOULDER1' as 'BOULDER1'
+   INFO: Dumping 'XENA/DATA/PLRS/BOULDER2' as 'BOULDER2'
+   INFO: Dumping 'XENA/DATA/PLRS/BOULDER3' as 'BOULDER3'
+   INFO: Dumping 'XENA/DATA/PLRS/C1' as 'C1'
+   INFO: Dumping 'XENA/DATA/PLRS/CHAKRAM' as 'CHAKRAM'
+   INFO: Dumping 'XENA/DATA/PLRS/CLINK' as 'CLINK'
+   INFO: Dumping 'XENA/DATA/PLRS/CONTINUE' as 'CONTINUE'
+   INFO: Dumping 'XENA/DATA/PLRS/DBCHAIN' as 'DBCHAIN'
+   INFO: Dumping 'XENA/DATA/PLRS/DBRIDGE' as 'DBRIDGE'
+   INFO: Dumping 'XENA/DATA/PLRS/DUST' as 'DUST'
+   INFO: Dumping 'XENA/DATA/PLRS/FIREBALL' as 'FIREBALL'
+   INFO: Dumping 'XENA/DATA/PLRS/FLAG' as 'FLAG'
+   INFO: Dumping 'XENA/DATA/PLRS/LARK' as 'LARK'
+   INFO: Dumping 'XENA/DATA/PLRS/LEAF' as 'LEAF'
+   INFO: Dumping 'XENA/DATA/PLRS/P_FROST2' as 'P_FROST2'
+   INFO: Dumping 'XENA/DATA/PLRS/RAIN2' as 'RAIN2'
+   INFO: Dumping 'XENA/DATA/PLRS/SHADBIRD' as 'SHADBIRD'
+   INFO: Dumping 'XENA/DATA/PLRS/SHADOW' as 'SHADOW'
+   INFO: Dumping 'XENA/DATA/PLRS/SHADOW2' as 'SHADOW2'
+   INFO: Dumping 'XENA/DATA/PLRS/TENT' as 'TENT'
+   INFO: Dumping 'XENA/DATA/PLRS/TENTLIT' as 'TENTLIT'
+   INFO: Dumping 'XENA/DATA/PLRS/XENA' as 'XENA'
+   INFO: Dumping 'XENA/DATA/SCREENS' as 'SCREENS'
+   INFO: Dumping 'XENA/DATA/SND' as 'SND'
+   INFO: Dumping 'R4DEMO' as 'R4DEMO'
+   INFO: XA file 'R4.STR' size = 18989056, secsize = 9272, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'PROSKATE' as 'PROSKATE'
+   INFO: XA file '411.STR' size = 18546688, secsize = 9056, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'X3' as 'X3'
+   INFO: XA file '989STUDI.STR' size = 1638400, secsize = 800, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+   INFO: Dumping 'GYAMON' as 'GYAMON'
+   INFO: Dumping 'GYAMON/BATTLE' as 'BATTLE'
+   INFO: Dumping 'GYAMON/BIN' as 'BIN'
+   INFO: Dumping 'GYAMON/FIELD' as 'FIELD'
+   INFO: Dumping 'GYAMON/STR' as 'STR'
+   INFO: XA file 'ADDEMO.STR' size = 28086272, secsize = 13714, group_id = 0, user_id = 0, attributes = 2555, filenum = 1
+Catalog written to "data.cat"
+   INFO: Done.

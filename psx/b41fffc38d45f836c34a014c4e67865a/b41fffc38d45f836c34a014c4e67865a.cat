@@ -1,0 +1,52 @@
+system_area {
+  file "data.sys"
+}
+
+volume {
+  system_id [PLAYSTATION]
+  volume_id [SLES_03955]
+  volume_set_id []
+  publisher_id [ACTIVISION]
+  preparer_id []
+  application_id [PLAYSTATION]
+  copyright_file_id [ACTIVISION]
+  abstract_file_id []
+  bibliographic_file_id []
+  creation_date 1902-10-04 16:50:05.00 36
+  modification_date 0000-00-00 00:00:00.00 0
+  expiration_date 0000-00-00 00:00:00.00 0
+  effective_date 0000-00-00 00:00:00.00 0
+}
+
+dir {
+  file SYSTEM.CNF
+  file SLES_039.55
+  xafile ACTIV.STR
+  xafile LOGO.STR
+  xafile VVLOGO.STR
+  xafile INTRO.STR
+  file CD.HED
+  file CD.WAD
+  xafile COMPILED.XA
+  dir X {
+    xafile BAILS01.STR
+    xafile BAILS02.STR
+    xafile BAM.STR
+    xafile BOB.STR
+    xafile CABALLER.STR
+    xafile CAMPBELL.STR
+    xafile GLIFBERG.STR
+    xafile HAWK.STR
+    xafile KONA.STR
+    xafile KOSTON.STR
+    xafile LASEK.STR
+    xafile MULLEN.STR
+    xafile MUSKA.STR
+    xafile REYNOLDS.STR
+    xafile ROWLEY.STR
+    xafile THOMAS.STR
+    xafile STEAMER.STR
+  }
+  file THPS4.JSP
+  file PAD.DAT
+}
