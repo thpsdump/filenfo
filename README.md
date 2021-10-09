@@ -19,6 +19,7 @@ directory structure (per entry)
 ./hash/hash.cat *
 ./hash/hash.cue
 ./hash/hash.names
+./hash/hash.notes *
 ./hash/data
 ```
 \* are optional or may differ between tools
