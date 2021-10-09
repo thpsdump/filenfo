@@ -28,7 +28,7 @@ directory structure (per entry)
 ## tools
 a list of tools feeding this project
 | system | tool | link | note |
-| - |-|-|
+| - |-|-|-|
 | psx | psximager    | https://github.com/cebix/psximager         ||
 | psx | thps2-tools  | https://github.com/JayFoxRox/thps2-tools   ||
 | psx | toc2cue      | -                                          ||
@@ -39,7 +39,7 @@ a list of tools feeding this project
 
 reference for tools to review for other systems
 | system | tool | link | note |
-| - |-|-|
+| - |-|-|-|
 | dc  | gditools     | https://sourceforge.net/projects/dcisotools ||
 | gc  | gciso        | https://github.com/pfirsich/gciso ||
 | wii | wit          | https://wit.wiimm.de/wit/ ||
