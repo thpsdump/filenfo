@@ -27,19 +27,20 @@ directory structure (per entry)
 
 ## tools
 a list of tools feeding this project
-| system | tool | link |
+| system | tool | link | note |
 | - |-|-|
-| psx | psximager    | https://github.com/cebix/psximager         |
-| psx | thps2-tools  | https://github.com/JayFoxRox/thps2-tools   |
-| psx | toc2cue      | -                                          |
-| psx | bchunk       | -                                          |
-| xbox| extract-xiso | https://github.com/XboxDev/extract-xiso |
+| psx | psximager    | https://github.com/cebix/psximager         ||
+| psx | thps2-tools  | https://github.com/JayFoxRox/thps2-tools   ||
+| psx | toc2cue      | -                                          ||
+| psx | bchunk       | -                                          ||
+| gen | cdmage       | -                                          | run under wine to review problematic images|
+| xbox| extract-xiso | https://github.com/XboxDev/extract-xiso ||
 
 
 reference for tools to review for other systems
-| system | tool | link |
+| system | tool | link | note |
 | - |-|-|
-| dc  | gditools     | https://sourceforge.net/projects/dcisotools |
-| gc  | gciso        | https://github.com/pfirsich/gciso |
-| wii | wit          | https://wit.wiimm.de/wit/ |
-| psx | dumpid.py    | https://gist.github.com/i30817/96674a3de8d9e4cb890e92cec3f36990 |
+| dc  | gditools     | https://sourceforge.net/projects/dcisotools ||
+| gc  | gciso        | https://github.com/pfirsich/gciso ||
+| wii | wit          | https://wit.wiimm.de/wit/ ||
+| psx | dumpid.py    | https://gist.github.com/i30817/96674a3de8d9e4cb890e92cec3f36990 ||
