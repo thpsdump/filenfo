@@ -1,0 +1,58 @@
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_AU.UTF-8,Utf16=on,HugeFiles=on,64 bits,16 CPUs AMD Ryzen 7 3700X 8-Core Processor              (870F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 575436800 bytes (549 MiB)
+
+Listing archive: (PSX) Tony Hawk's Skateboarding (SLES-02055) (Russian) (NK+DruchaPucha).iso
+
+--
+Path = (PSX) Tony Hawk's Skateboarding (SLES-02055) (Russian) (NK+DruchaPucha).iso
+Type = Iso
+Physical Size = 575436800
+Comment = 
+System: PLAYSTATION
+Volume: SLES_02055
+VolumeSet: TONY_HAWKS_PRO_RUS
+Publisher: ACTIVISION
+Preparer: NEVERSOFT
+Application: PLAYSTATION
+Copyright: DRUCHAPUCHA
+Bib: PSXPLANET.RU
+Created = 1999-08-21 22:10:59
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+1999-08-14 12:16:30 .....      9371648      9371648  411.STR
+1999-08-21 00:15:48 .....     12779520     12779520  AARON.STR
+1999-08-18 14:05:10 .....     38567936     38567936  AIM.STR
+1999-08-18 14:05:56 .....     38567936     38567936  AQUASKY.STR
+1998-09-10 21:04:32 .....      4325376      4325376  ATVILOGO.STR
+1999-07-26 16:01:52 .....     16318464     16318464  BAILS.STR
+1999-08-02 04:06:12 .....      9633792      9633792  BURNQUIS.STR
+1999-08-02 04:21:46 .....     10223616     10223616  CAMPBELL.STR
+1999-08-20 23:17:44 .....        15461        15461  CD.HED
+1999-08-20 23:17:44 .....     26630144     26630144  CD.WAD
+1999-08-17 09:24:30 .....     38469632     38469632  DK.STR
+1999-08-02 08:10:30 .....     38469632     38469632  ERNIES.STR
+1999-08-02 09:04:34 .....      9895936      9895936  GLIFBERG.STR
+1999-06-18 04:33:06 .....     38404096     38404096  GOLDFING.STR
+1999-08-18 14:06:40 .....     38502400     38502400  GRAND.STR
+1999-08-02 09:20:02 .....      9633792      9633792  HAWK.STR
+1999-08-19 09:10:56 .....     20381696     20381696  INTROPAL.STR
+1999-08-10 10:29:08 .....     10092544     10092544  LASEK.STR
+1999-08-19 21:59:54 .....      3702784      3702784  LOGO.STR
+1999-08-10 10:29:18 .....      9371648      9371648  MUSKA.STR
+1999-08-08 18:07:04 .....     38502400     38502400  PRIMUS.STR
+1999-07-20 19:13:36 .....      9568256      9568256  REYNOLDS.STR
+1999-06-28 21:52:08 .....      9437184      9437184  ROWLEY.STR
+1999-08-20 23:17:46 .....       841728       841728  SLES_020.55
+1999-07-23 20:24:56 .....     38436864     38436864  ST.STR
+1999-08-10 10:29:28 .....      9043968      9043968  STEAMER.STR
+1999-06-17 07:47:24 .....     37591040     37591040  SUICIDE.STR
+1999-08-10 11:49:08 .....           70           70  SYSTEM.CNF
+1999-08-11 11:39:02 .....      9895936      9895936  THOMAS.STR
+1999-07-23 20:05:24 .....     38404096     38404096  UNSANE.STR
+------------------- ----- ------------ ------------  ------------------------
+1999-08-21 00:15:48          575079595    575079595  30 files

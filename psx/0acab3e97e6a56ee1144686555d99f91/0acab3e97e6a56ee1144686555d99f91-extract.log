@@ -1,0 +1,23 @@
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_AU.UTF-8,Utf16=on,HugeFiles=on,64 bits,16 CPUs AMD Ryzen 7 3700X 8-Core Processor              (870F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 32012288 bytes (31 MiB)
+
+Extracting archive: data.iso
+--
+Path = data.iso
+Type = Iso
+Physical Size = 32012288
+Comment = 
+System: PLAYSTATION
+Volume: SKAT0409
+Application: PLAYSTATION
+Created = 1999-01-04 13:43:24
+
+Everything is Ok
+
+Files: 4
+Size:       31653429
+Compressed: 32012288

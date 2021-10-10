@@ -1,0 +1,22 @@
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_AU.UTF-8,Utf16=on,HugeFiles=on,64 bits,16 CPUs AMD Ryzen 7 3700X 8-Core Processor              (870F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 651352064 bytes (622 MiB)
+
+Extracting archive: Tony Hawk's Pro Skater 2 [U] [SLUS-01066].iso
+--
+Path = Tony Hawk's Pro Skater 2 [U] [SLUS-01066].iso
+Type = Iso
+Physical Size = 651352064
+Comment = 
+System: PLAYSTATION
+Application: PLAYSTATION
+
+Everything is Ok
+
+Folders: 2
+Files: 48
+Size:       650981359
+Compressed: 651352064

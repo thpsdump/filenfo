@@ -1,0 +1,28 @@
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_AU.UTF-8,Utf16=on,HugeFiles=on,64 bits,16 CPUs AMD Ryzen 7 3700X 8-Core Processor              (870F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 575436800 bytes (549 MiB)
+
+Extracting archive: (PSX) Tony Hawk's Skateboarding (SLES-02055) (Russian) (NK+DruchaPucha).iso
+--
+Path = (PSX) Tony Hawk's Skateboarding (SLES-02055) (Russian) (NK+DruchaPucha).iso
+Type = Iso
+Physical Size = 575436800
+Comment = 
+System: PLAYSTATION
+Volume: SLES_02055
+VolumeSet: TONY_HAWKS_PRO_RUS
+Publisher: ACTIVISION
+Preparer: NEVERSOFT
+Application: PLAYSTATION
+Copyright: DRUCHAPUCHA
+Bib: PSXPLANET.RU
+Created = 1999-08-21 22:10:59
+
+Everything is Ok
+
+Files: 30
+Size:       575079595
+Compressed: 575436800

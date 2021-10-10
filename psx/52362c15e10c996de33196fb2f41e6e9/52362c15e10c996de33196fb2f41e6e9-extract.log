@@ -1,0 +1,25 @@
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_AU.UTF-8,Utf16=on,HugeFiles=on,64 bits,16 CPUs AMD Ryzen 7 3700X 8-Core Processor              (870F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 614780928 bytes (587 MiB)
+
+Extracting archive: Tony Hawk's Pro Skater 3 [U] [SLUS-01419].iso
+--
+Path = Tony Hawk's Pro Skater 3 [U] [SLUS-01419].iso
+Type = Iso
+Physical Size = 614780928
+Comment = 
+System: PLAYSTATION
+Volume: SLUS_01419
+Publisher: ACTIVISION
+Application: PLAYSTATION
+Created = 2001-10-03 19:56:07
+
+Everything is Ok
+
+Folders: 1
+Files: 25
+Size:       614420790
+Compressed: 614780928
