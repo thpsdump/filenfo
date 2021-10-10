@@ -35,6 +35,8 @@ a list of tools feeding this project
 | psx | bchunk       | -                                          ||
 | gen | cdmage       | -                                          | run under wine to review problematic images|
 | xbox| extract-xiso | https://github.com/XboxDev/extract-xiso ||
+| gen | isoinfo      | -                                          ||
+| gen | 7z           | -                                          || can be used to extract isos
 
 
 reference for tools to review for other systems
