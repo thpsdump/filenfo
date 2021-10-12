@@ -33,10 +33,11 @@ a list of tools feeding this project
 | psx | thps2-tools  | https://github.com/JayFoxRox/thps2-tools   ||
 | psx | toc2cue      | -                                          ||
 | psx | bchunk       | -                                          ||
-| gen | cdmage       | -                                          | run under wine to review problematic images|
+| opt | cdmage       | -                                          | run under wine to review problematic images|
 | xbox| extract-xiso | https://github.com/XboxDev/extract-xiso ||
-| gen | isoinfo      | -                                          ||
-| gen | 7z           | -                                          || can be used to extract isos
+| opt | isoinfo      | -                                          ||
+| all | 7z           | -                                          || can be used to extract isos
+| opt | cdemu        | -                                          || mount images
 
 
 reference for tools to review for other systems
