@@ -1,0 +1,27 @@
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_AU.UTF-8,Utf16=on,HugeFiles=on,64 bits,16 CPUs AMD Ryzen 7 3700X 8-Core Processor              (870F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 360400896 bytes (344 MiB)
+
+Extracting archive: thpm_mod2.iso
+--
+Path = thpm_mod2.iso
+Type = Iso
+Physical Size = 360400896
+Comment = 
+System: PSP GAME
+Volume: TONYHAWKPROJECT8
+VolumeSet: TONYHAWKPROJECT8
+Publisher: ACTIVISION
+Preparer: ACTIVISION
+Application: PSP GAME
+Created = 2006-10-15 17:42:11
+
+Everything is Ok
+
+Folders: 8
+Files: 21
+Size:       360315336
+Compressed: 360400896

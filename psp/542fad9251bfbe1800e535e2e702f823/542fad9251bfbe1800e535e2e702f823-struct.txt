@@ -1,0 +1,55 @@
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_AU.UTF-8,Utf16=on,HugeFiles=on,64 bits,16 CPUs AMD Ryzen 7 3700X 8-Core Processor              (870F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 360400896 bytes (344 MiB)
+
+Listing archive: thpm_mod2.iso
+
+--
+Path = thpm_mod2.iso
+Type = Iso
+Physical Size = 360400896
+Comment = 
+System: PSP GAME
+Volume: TONYHAWKPROJECT8
+VolumeSet: TONYHAWKPROJECT8
+Publisher: ACTIVISION
+Preparer: ACTIVISION
+Application: PSP GAME
+Created = 2006-10-15 17:42:11
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2006-09-26 07:23:17 D....                            PSP_GAME
+2019-08-12 20:45:14 .....        25227        25227  PSP_GAME/ICON0.PNG
+2006-10-07 23:27:48 .....          472          472  PSP_GAME/PARAM.SFO
+2019-08-13 07:33:31 .....       176481       176481  PSP_GAME/PIC1.PNG
+2006-10-06 07:56:07 .....       280652       280652  PSP_GAME/SND0.AT3
+2006-09-26 08:11:21 D....                            PSP_GAME/SYSDIR
+2006-10-15 20:37:59 .....      4453280      4453280  PSP_GAME/SYSDIR/BOOT.BIN
+2006-10-15 20:42:06 .....      4453616      4453616  PSP_GAME/SYSDIR/EBOOT.BIN
+2006-09-26 08:11:21 D....                            PSP_GAME/SYSDIR/UPDATE
+2006-09-26 11:11:21 .....     15456672     15456672  PSP_GAME/SYSDIR/UPDATE/DATA.BIN
+2006-09-26 11:11:21 .....      5079424      5079424  PSP_GAME/SYSDIR/UPDATE/EBOOT.BIN
+2006-09-26 11:11:21 .....         2080         2080  PSP_GAME/SYSDIR/UPDATE/PARAM.SFO
+2006-09-26 08:13:26 D....                            PSP_GAME/USRDIR
+2020-01-01 13:42:42 D....                            PSP_GAME/USRDIR/Movies
+2020-01-01 13:42:46 D....                            PSP_GAME/USRDIR/Movies/Start
+2019-12-23 11:10:10 .....      1136640      1136640  PSP_GAME/USRDIR/Movies/Start/ih_logo.pmf
+2019-12-22 08:27:13 .....      1673216      1673216  PSP_GAME/USRDIR/Movies/Start/ns_logo.pmf
+2019-12-28 22:14:37 .....       673792       673792  PSP_GAME/USRDIR/Movies/Start/p44.pmf
+2019-12-28 22:14:52 .....       352256       352256  PSP_GAME/USRDIR/Movies/Start/shaba.pmf
+2019-12-22 09:06:19 .....       931840       931840  PSP_GAME/USRDIR/Movies/Start/tg_logo.pmf
+2006-10-14 11:25:33 D....                            PSP_GAME/USRDIR/Music
+2020-01-02 16:23:32 .....            4            4  PSP_GAME/USRDIR/Music/musicp.hed
+2020-01-02 16:23:32 .....            0            0  PSP_GAME/USRDIR/Music/musicp.wad
+2006-10-14 11:25:51 D....                            PSP_GAME/USRDIR/Streams
+2019-08-31 14:42:47 .....            4            4  PSP_GAME/USRDIR/Streams/streamsp.hed
+2019-08-31 14:42:47 .....            0            0  PSP_GAME/USRDIR/Streams/streamsp.wad
+2020-01-03 16:36:28 .....       261992       261992  PSP_GAME/USRDIR/datap.hed
+2020-01-03 16:36:28 .....    325357640    325357640  PSP_GAME/USRDIR/datap.wad
+2006-09-26 08:11:21 .....           48           48  UMD_DATA.BIN
+------------------- ----- ------------ ------------  ------------------------
+2020-01-03 16:36:28          360315336    360315336  21 files, 8 folders

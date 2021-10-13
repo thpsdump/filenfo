@@ -12,14 +12,15 @@ directory structure (per entry)
 
 ```
 ./hash
-./hash/hash-struct.txt *
-./hash/hash-extract.log *
 ./hash/hash-data.md5
+./hash/hash-extract.log *
 ./hash/hash-image.md5
+./hash/hash-struct.txt *
 ./hash/hash.cat *
 ./hash/hash.cue
 ./hash/hash.names
 ./hash/hash.notes *
+./hash/hash.series *
 ./hash/data
 ```
 \* are optional or may differ between tools
