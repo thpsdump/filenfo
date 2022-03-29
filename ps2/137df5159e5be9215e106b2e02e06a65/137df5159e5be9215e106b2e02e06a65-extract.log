@@ -1,0 +1,23 @@
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_AU.UTF-8,Utf16=on,HugeFiles=on,64 bits,16 CPUs AMD Ryzen 7 3700X 8-Core Processor              (870F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 228323328 bytes (218 MiB)
+
+Extracting archive: PS2 - Tony Hawk's Pro Skater 3 - print preview.iso
+--
+Path = PS2 - Tony Hawk's Pro Skater 3 - print preview.iso
+Type = Iso
+Physical Size = 228323328
+Comment = 
+System: PLAYSTATION
+Application: PLAYSTATION
+Created = 2001-07-13 13:34:56
+
+Everything is Ok
+
+Folders: 12
+Files: 43
+Size:       227903787
+Compressed: 228323328
